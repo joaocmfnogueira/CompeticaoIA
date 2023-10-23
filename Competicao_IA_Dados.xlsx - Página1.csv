@@ -1,0 +1,942 @@
+ID,Cidade,Bairro,Tipo,m2,Quartos,Banheiros,Vagas,Preço,Condomínio,IPTU,Latitude,Longitude
+0,Juiz de Fora - MG,Centro,Studio,34,1,1,0,"R$ 1.400,00","R$ 150,00","R$ 0,00",-21.759859,-43.3467271
+1,Juiz de Fora - MG,Granbery,Apartamento,92,3,2,0,"R$ 1.900,00","R$ 220,00","R$ 161,28",-21.7675479,-43.3437945
+2,Juiz de Fora - MG,Santo Antônio,Apartamento,45,2,1,0,"R$ 600,00","R$ 132,00","R$ 125,00",-21.7732458,-43.3127406
+3,Juiz de Fora - MG,Centro,Apartamento,71,1,1,1,"R$ 1.400,00","R$ 404,00","R$ 133,00",-21.759859,-43.3467271
+4,Juiz de Fora - MG,Joquei Clube,Apartamento,55,2,1,1,"R$ 700,00","R$ 300,00","R$ 0,00",-21.7258339,-43.397439
+5,Juiz de Fora - MG,Marilândia,Apartamento,62,2,1,1,"R$ 850,00","R$ 180,00","R$ 63,45",-21.7871711,-43.3907351
+6,Juiz de Fora - MG,Joquei Clube,Apartamento,0,2,1,0,"R$ 600,00","R$ 270,00","R$ 0,00",-21.7258339,-43.397439
+7,Juiz de Fora - MG,Nova Era,Galpão,4300,0,12,0,"R$ 85.000,00","R$ 0,00","R$ 2.439,00",-21.7084989,-43.4211379
+8,Juiz de Fora - MG,Estrela Sul,Apartamento,47,1,1,0,"R$ 1.200,00","R$ 286,00","R$ 132,00",-21.7853626,-43.3546328
+9,Juiz de Fora - MG,São Bernardo,Casa,100,3,2,0,"R$ 1.100,00","R$ 0,00","R$ 0,00",-21.7579231,-43.3389944
+10,Juiz de Fora - MG,Centro,Sala,100,0,2,0,"R$ 1.700,00","R$ 0,00","R$ 289,76",-21.759859,-43.3467271
+11,Juiz de Fora - MG,Santa Cecília,Apartamento,81,2,1,0,"R$ 1.000,00","R$ 180,00","R$ 0,00",-21.7813481,-43.3528052
+12,Juiz de Fora - MG,São Bernardo,Apartamento,0,3,1,1,"R$ 650,00","R$ 260,00","R$ 58,00",-21.7579231,-43.3389944
+13,Juiz de Fora - MG,Granbery,Cobertura,90,3,1,1,"R$ 1.300,00","R$ 290,00","R$ 90,00",-21.7675479,-43.3437945
+14,Juiz de Fora - MG,Morro da Glória,Apartamento,96,3,3,1,"R$ 1.100,00","R$ 246,50","R$ 180,20",-21.7491916,-43.354837
+15,Juiz de Fora - MG,Cascatinha,Apartamento,96,2,2,1,"R$ 1.400,00","R$ 180,00","R$ 145,00",-21.783859,-43.3630935
+16,Juiz de Fora - MG,Granbery,Apartamento,45,1,1,0,"R$ 700,00","R$ 390,00","R$ 36,20",-21.7675479,-43.3437945
+17,Juiz de Fora - MG,Nova Califórnia,Apartamento,90,3,1,0,"R$ 1.000,00","R$ 730,00","R$ 150,00",-21.7973058,-43.4008574
+18,Juiz de Fora - MG,Centro,Apartamento,46,1,1,0,"R$ 800,00","R$ 153,83","R$ 82,44",-21.759859,-43.3467271
+19,Juiz de Fora - MG,Cascatinha,Apartamento,50,2,1,1,"R$ 480,00","R$ 160,00","R$ 30,00",-21.783859,-43.3630935
+20,Juiz de Fora - MG,Santa Cândida,Loja,60,2,1,0,"R$ 900,00","R$ 40,00","R$ 0,00",-21.7523138,-43.3376269
+21,Juiz de Fora - MG,Santa Cândida,Loja,110,2,3,2,"R$ 2.300,00","R$ 380,01","R$ 155,01",-21.7523138,-43.3376269
+22,Juiz de Fora - MG,Santa Luzia,Loja,66,0,1,0,"R$ 850,00","R$ 0,00","R$ 77,90",-21.7868628,-43.3447472
+23,Juiz de Fora - MG,Centro,Apartamento,69,0,0,0,"R$ 850,00","R$ 0,00","R$ 82,00",-21.759859,-43.3467271
+24,Juiz de Fora - MG,Centro,Sala,86,0,0,0,"R$ 2.300,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+25,Juiz de Fora - MG,Centro,Apartamento,36,1,1,0,"R$ 600,00","R$ 280,00","R$ 0,00",-21.759859,-43.3467271
+26,Juiz de Fora - MG,Marilândia,Apartamento,0,0,1,0,"R$ 700,00","R$ 390,00","R$ 170,00",-21.7871711,-43.3907351
+27,Juiz de Fora - MG,Cascatinha,Apartamento,70,2,3,0,"R$ 1.200,00","R$ 390,00","R$ 165,00",-21.783859,-43.3630935
+28,Juiz de Fora - MG,Cascatinha,Apartamento,62,2,1,1,"R$ 860,00","R$ 180,00","R$ 64,00",-21.783859,-43.3630935
+29,Juiz de Fora - MG,São Pedro,Apartamento,86,2,3,2,"R$ 2.300,00","R$ 380,01","R$ 155,01",-21.7708213,-43.3879244
+30,Juiz de Fora - MG,Centro,Apartamento,92,2,2,1,"R$ 1.850,00","R$ 350,27","R$ 142,36",-21.759859,-43.3467271
+31,Juiz de Fora - MG,São Mateus,Apartamento,47,2,1,1,"R$ 720,00","R$ 160,00","R$ 39,02",-21.7735943,-43.3546617
+32,Juiz de Fora - MG,Monte Castelo,Casa,33,1,1,0,"R$ 1.100,00","R$ 139,01","R$ 0,00",-21.7477591,-43.3826033
+33,Juiz de Fora - MG,Bonfim,Apartamento,77,3,2,1,"R$ 1.100,00","R$ 250,00","R$ 126,00",-21.738407,-43.3447405
+34,Juiz de Fora - MG,Centro,Apartamento,160,3,2,1,"R$ 950,00","R$ 0,00","R$ 125,00",-21.759859,-43.3467271
+35,Juiz de Fora - MG,Paineiras,Apartamento,61,2,1,1,"R$ 850,00","R$ 229,05","R$ 80,00",-21.7657334,-43.3551152
+36,Juiz de Fora - MG,Alto dos Pinheiros,Casa,80,1,1,1,"R$ 700,00","R$ 740,00","R$ 165,20",-21.7633035,-43.3778164
+37,Juiz de Fora - MG,Vivendas da Serra,Apartamento,100,3,2,1,"R$ 1.500,00","R$ 200,00","R$ 155,00",-21.5597061,-43.0112788
+38,Juiz de Fora - MG,Neo Residencial,Casa,315,4,4,6,"R$ 4.800,00","R$ 230,00","R$ 65,00",-21.7617614,-43.3850539
+39,Juiz de Fora - MG,Paineiras,Apartamento,45,2,1,0,"R$ 600,00","R$ 160,00","R$ 40,00",-21.7657334,-43.3551152
+40,Juiz de Fora - MG,Teixeiras,Apartamento,45,2,1,1,"R$ 173,00","R$ 145,00","R$ 551,00",-21.7908663,-43.3623365
+41,Juiz de Fora - MG,Francisco Bernardino,Apartamento,0,2,1,1,"R$ 800,00","R$ 280,00","R$ 160,00",-21.73497,-43.3982458
+42,Juiz de Fora - MG,Manoel Honorio,Apartamento,96,2,2,1,"R$ 980,00","R$ 250,00","R$ 140,00",-21.7435044,-43.3537058
+43,Juiz de Fora - MG,Francisco Bernardino,GalpÃ£o,0,2,0,1,"R$ 550,00","R$ 205,00","R$ 0,00",-21.73497,-43.3982458
+44,Juiz de Fora - MG,Granbery,Apartamento,0,2,1,0,"R$ 700,00","R$ 140,00","R$ 0,00",-21.7675479,-43.3437945
+45,Juiz de Fora - MG,Granbery,Apartamento,700,0,0,0,"R$ 10.000,00","R$ 0,00","R$ 572,00",-21.7675479,-43.3437945
+46,Juiz de Fora - MG,Bandeirantes,Casa,96,3,2,0,"R$ 1.350,00","R$ 285,00","R$ 100,00",-21.7215787,-43.3541886
+47,Juiz de Fora - MG,Centro,Studio,75,2,1,1,"R$ 1.100,00","R$ 290,00","R$ 115,00",-21.759859,-43.3467271
+48,Juiz de Fora - MG,Alto dos Passos,Apartamento,510,4,5,8,"R$ 7.500,00","R$ 0,00","R$ 750,00",-21.7762548,-43.3474599
+49,Juiz de Fora - MG,Poço Rico,Apartamento,40,1,1,0,"R$ 1.100,00","R$ 138,79","R$ 0,00",-21.763706,-43.3392047
+50,Juiz de Fora - MG,Centro,Studio,85,2,1,1,"R$ 1.300,00","R$ 311,00","R$ 149,93",-21.759859,-43.3467271
+51,Juiz de Fora - MG,Centro,Loja,72,2,1,0,"R$ 600,00","R$ 150,00","R$ 81,00",-21.759859,-43.3467271
+52,Juiz de Fora - MG,Centro,Loja,31,1,1,0,"R$ 1.500,00","R$ 150,00","R$ 120,00",-21.759859,-43.3467271
+53,Juiz de Fora - MG,Centro,Loja,44,0,0,0,"R$ 3.000,00","R$ 359,00","R$ 168,06",-21.759859,-43.3467271
+54,Juiz de Fora - MG,Centro,Loja,44,0,0,0,"R$ 2.000,00","R$ 359,00","R$ 66,66",-21.759859,-43.3467271
+55,Juiz de Fora - MG,São Mateus,Apartamento,44,0,0,0,"R$ 2.000,00","R$ 359,00","R$ 69,78",-21.7735943,-43.3546617
+56,Juiz de Fora - MG,Mariano Procopio,Prédio,44,0,0,0,"R$ 2.000,00","R$ 359,00","R$ 80,62",-21.7461726,-43.3556644
+57,Juiz de Fora - MG,Centro,Loja,106,2,3,2,"R$ 2.000,00","R$ 850,00","R$ 193,66",-21.759859,-43.3467271
+58,Juiz de Fora - MG,Cascatinha,Apartamento,530,0,3,3,"R$ 4.500,00","R$ 0,00","R$ 630,00",-21.783859,-43.3630935
+59,Juiz de Fora - MG,São Pedro,Apartamento,100,0,0,0,"R$ 6.000,00","R$ 460,00","R$ 190,00",-21.7708213,-43.3879244
+60,Juiz de Fora - MG,São Mateus,Apartamento,0,2,1,0,"R$ 1.800,00","R$ 350,00","R$ 200,00",-21.7735943,-43.3546617
+61,Juiz de Fora - MG,Santos Dumont,Loja,50,2,1,1,"R$ 800,00","R$ 220,00","R$ 85,60",-21.7809405,-43.3866819
+62,Juiz de Fora - MG,Passos,Casa,70,2,1,1,"R$ 800,00","R$ 195,00","R$ 101,00",-21.7762548,-43.3474599
+63,Juiz de Fora - MG,São Mateus,Apartamento,80,0,1,0,"R$ 3.000,00","R$ 0,00","R$ 0,00",-21.7735943,-43.3546617
+64,Juiz de Fora - MG,São Bernardo,Casa,60,2,2,0,"R$ 720,00","R$ 140,30","R$ 88,60",-21.7579231,-43.3389944
+65,Juiz de Fora - MG,Centro,Apartamento,372,0,5,0,"R$ 6.000,00","R$ 0,00","R$ 665,00",-21.759859,-43.3467271
+66,Juiz de Fora - MG,São Mateus,Apartamento,64,2,1,1,"R$ 1.550,00","R$ 429,00","R$ 234,00",-21.7735943,-43.3546617
+67,Juiz de Fora - MG,Santa Helena,Apartamento,0,2,1,0,"R$ 650,00","R$ 0,00","R$ 19,81",-21.7575053,-43.3561412
+68,Juiz de Fora - MG,Centro,Loja,80,2,1,1,"R$ 900,00","R$ 371,38","R$ 125,88",-21.759859,-43.3467271
+69,Juiz de Fora - MG,Centro,Apartamento,40,2,1,0,"R$ 1.000,00","R$ 198,00","R$ 98,89",-21.759859,-43.3467271
+70,Juiz de Fora - MG,São Mateus,Loja,45,1,1,0,"R$ 825,00","R$ 375,00","R$ 119,20",-21.7735943,-43.3546617
+71,Juiz de Fora - MG,São Mateus,Sobrado,114,0,2,0,"R$ 3.000,00","R$ 70,00","R$ 473,72",-21.7735943,-43.3546617
+72,Juiz de Fora - MG,Centro,Apartamento,0,1,1,0,"R$ 700,00","R$ 340,00","R$ 67,67",-21.759859,-43.3467271
+73,Juiz de Fora - MG,Cidade do Sol,Cobertura,25,0,0,0,"R$ 1.500,00","R$ 0,00","R$ 76,36",-21.7192878,-43.4091603
+74,Juiz de Fora - MG,Centro,Studio,81,4,2,0,"R$ 2.100,00","R$ 0,00","R$ 161,00",-21.759859,-43.3467271
+75,Juiz de Fora - MG,Centro,Apartamento,44,1,1,0,"R$ 600,00","R$ 293,00","R$ 65,00",-21.759859,-43.3467271
+76,Juiz de Fora - MG,Santa Catarina,Apartamento,109,3,2,1,"R$ 1.300,00","R$ 60,00","R$ 0,00",-21.7508782,-43.3592871
+77,Juiz de Fora - MG,Granbery,Apartamento,33,1,1,1,"R$ 1.900,00","R$ 138,80","R$ 0,00",-21.7675479,-43.3437945
+78,Juiz de Fora - MG,Aracy,Apartamento,153,3,3,1,"R$ 2.200,00","R$ 1.091,00","R$ 207,00",-21.761949,-43.3310087
+79,Juiz de Fora - MG,Manoel Honorio,Cobertura,117,3,1,1,"R$ 1.200,00","R$ 300,00","R$ 117,10",-21.7435044,-43.3537058
+80,Juiz de Fora - MG,Centro,Loja,94,2,2,1,"R$ 950,00","R$ 280,00","R$ 152,00",-21.759859,-43.3467271
+81,Juiz de Fora - MG,Cascatinha,Sala,50,2,1,1,"R$ 1.200,00","R$ 0,00","R$ 77,50",-21.783859,-43.3630935
+82,Juiz de Fora - MG,Cascatinha,Apartamento,200,3,3,0,"R$ 2.700,00","R$ 180,00","R$ 180,00",-21.783859,-43.3630935
+83,Juiz de Fora - MG,Cascatinha,Sala,29,0,0,0,"R$ 3.000,00","R$ 160,00","R$ 107,00",-21.783859,-43.3630935
+84,Juiz de Fora - MG,Nossa Senhora Aparecida,Casa,90,0,1,0,"R$ 1.800,00","R$ 130,00","R$ 190,00",-21.7465479,-43.3473422
+85,Juiz de Fora - MG,Manoel Honorio,Apartamento,107,2,2,1,"R$ 2.300,00","R$ 500,00","R$ 186,00",-21.7435044,-43.3537058
+86,Juiz de Fora - MG,Bandeirantes,Casa,49,0,1,0,"R$ 1.000,00","R$ 0,00","R$ 105,49",-21.7215787,-43.3541886
+87,Juiz de Fora - MG,São Pedro,Studio,29,1,1,0,"R$ 400,00","R$ 0,00","R$ 20,00",-21.7708213,-43.3879244
+88,Juiz de Fora - MG,São Mateus,Apartamento,64,2,1,1,"R$ 800,00","R$ 165,00","R$ 110,00",-21.7735943,-43.3546617
+89,Juiz de Fora - MG,Alto dos Passos,Apartamento,484,4,5,8,"R$ 7.500,00","R$ 0,00","R$ 795,00",-21.7762548,-43.3474599
+90,Juiz de Fora - MG,Benfica,Apartamento,29,1,1,1,"R$ 1.000,00","R$ 270,00","R$ 0,00",-21.6902673,-43.4361424
+91,Juiz de Fora - MG,Centro,Apartamento,70,2,1,1,"R$ 1.700,00","R$ 280,00","R$ 0,00",-21.759859,-43.3467271
+92,Juiz de Fora - MG,São Pedro,Apartamento,100,2,2,1,"R$ 1.000,00","R$ 550,00","R$ 156,35",-21.7708213,-43.3879244
+93,Juiz de Fora - MG,Cascatinha,Sala,38,1,1,0,"R$ 800,00","R$ 0,00","R$ 0,00",-21.783859,-43.3630935
+94,Juiz de Fora - MG,Centro,Apartamento,113,2,2,2,"R$ 2.200,00","R$ 550,00","R$ 279,00",-21.759859,-43.3467271
+95,Juiz de Fora - MG,Santa Helena,Apartamento,30,1,1,0,"R$ 800,00","R$ 120,00","R$ 42,65",-21.7575053,-43.3561412
+96,Juiz de Fora - MG,Progresso,Apartamento,90,0,1,0,"R$ 1.500,00","R$ 180,00","R$ 127,00",-21.730895,-43.3464281
+97,Juiz de Fora - MG,São Pedro,Cobertura,30,1,1,0,"R$ 950,00","R$ 409,00","R$ 49,35",-21.7708213,-43.3879244
+98,Juiz de Fora - MG,São Mateus,Apartamento,78,2,2,1,"R$ 1.300,00","R$ 225,53","R$ 151,25",-21.7735943,-43.3546617
+99,Juiz de Fora - MG,Centro,Sala,1,2,1,0,"R$ 600,00","R$ 70,00","R$ 0,00",-21.759859,-43.3467271
+100,Juiz de Fora - MG,São Pedro,Apartamento,130,2,2,1,"R$ 1.750,00","R$ 108,00","R$ 160,91",-21.7708213,-43.3879244
+101,Juiz de Fora - MG,São Mateus,Apartamento,49,1,1,0,"R$ 850,00","R$ 350,00","R$ 117,48",-21.7735943,-43.3546617
+102,Juiz de Fora - MG,Centro,Apartamento,33,0,1,0,"R$ 800,00","R$ 440,00","R$ 84,00",-21.759859,-43.3467271
+103,Juiz de Fora - MG,Centro,Sala,50,2,1,1,"R$ 550,00","R$ 190,00","R$ 40,00",-21.759859,-43.3467271
+104,Juiz de Fora - MG,Centro,Apartamento,67,2,1,1,"R$ 795,00","R$ 256,00","R$ 70,00",-21.759859,-43.3467271
+105,Juiz de Fora - MG,Morro da Glória,Loja,57,1,1,1,"R$ 800,00","R$ 487,51","R$ 77,01",-21.7491916,-43.354837
+106,Juiz de Fora - MG,Fábrica,Loja,271,0,0,5,"R$ 14.000,00","R$ 1.470,00","R$ 0,00",-21.7443938,-43.3709832
+107,Juiz de Fora - MG,Vale do Ipe,Apartamento,84,3,1,0,"R$ 1.500,00","R$ 332,00","R$ 281,00",-21.7533384,-43.3648613
+108,Juiz de Fora - MG,Centro,Apartamento,280,0,4,0,"R$ 3.000,00","R$ 0,00","R$ 1.300,00",-21.759859,-43.3467271
+109,Juiz de Fora - MG,Centro,Apartamento,100,0,2,0,"R$ 1.500,00","R$ 0,00","R$ 152,00",-21.759859,-43.3467271
+110,Juiz de Fora - MG,Santa Luzia,Apartamento,48,2,1,0,"R$ 720,00","R$ 140,00","R$ 97,00",-21.7868628,-43.3447472
+111,Juiz de Fora - MG,Progresso,SalÃ£o,0,3,2,0,"R$ 1.280,00","R$ 0,00","R$ 203,75",-21.730895,-43.3464281
+112,Juiz de Fora - MG,Progresso,Apartamento,60,2,1,0,"R$ 650,00","R$ 350,00","R$ 90,60",-21.730895,-43.3464281
+113,Juiz de Fora - MG,Progresso,Apartamento,45,1,1,0,"R$ 560,00","R$ 90,00","R$ 68,00",-21.730895,-43.3464281
+114,Juiz de Fora - MG,São Mateus,Loja,132,0,1,0,"R$ 1.000,00","R$ 0,00","R$ 144,51",-21.7735943,-43.3546617
+115,Juiz de Fora - MG,Paineiras,Apartamento,60,2,1,1,"R$ 900,00","R$ 115,00","R$ 0,00",-21.7657334,-43.3551152
+116,Juiz de Fora - MG,São Mateus,Apartamento,65,2,1,1,"R$ 900,00","R$ 100,00","R$ 0,00",-21.7735943,-43.3546617
+117,Juiz de Fora - MG,São Mateus,Apartamento,179,0,0,1,"R$ 5.500,00","R$ 0,00","R$ 0,00",-21.7735943,-43.3546617
+118,Juiz de Fora - MG,Centro,PrÃ©dio,82,2,2,1,"R$ 1.050,00","R$ 157,84","R$ 144,97",-21.759859,-43.3467271
+119,Juiz de Fora - MG,Centro,Sala,43,1,1,1,"R$ 1.500,00","R$ 298,77","R$ 0,00",-21.759859,-43.3467271
+120,Juiz de Fora - MG,Centro,Apartamento,43,1,1,1,"R$ 1.500,00","R$ 298,77","R$ 0,00",-21.759859,-43.3467271
+121,Juiz de Fora - MG,Centro,Sala,800,0,0,0,"R$ 25.000,00","R$ 0,00","R$ 1.500,00",-21.759859,-43.3467271
+122,Juiz de Fora - MG,São Mateus,Apartamento,55,0,0,0,"R$ 1.500,00","R$ 160,00","R$ 200,00",-21.7735943,-43.3546617
+123,Juiz de Fora - MG,Santa Helena,Apartamento,50,1,1,0,"R$ 485,00","R$ 400,00","R$ 115,00",-21.7575053,-43.3561412
+124,Juiz de Fora - MG,Cascatinha,Apartamento,50,0,1,0,"R$ 1.000,00","R$ 120,00","R$ 0,00",-21.783859,-43.3630935
+125,Juiz de Fora - MG,Progresso,Apartamento,40,2,1,0,"R$ 1.000,00","R$ 152,00","R$ 98,89",-21.730895,-43.3464281
+126,Juiz de Fora - MG,Progresso,Apartamento,50,1,1,1,"R$ 750,00","R$ 230,00","R$ 80,00",-21.730895,-43.3464281
+127,Juiz de Fora - MG,Progresso,Apartamento,50,2,1,1,"R$ 800,00","R$ 170,00","R$ 80,00",-21.730895,-43.3464281
+128,Juiz de Fora - MG,Cascatinha,Apartamento,1,2,1,0,"R$ 600,00","R$ 100,00","R$ 82,13",-21.783859,-43.3630935
+129,Juiz de Fora - MG,Parque Jardim da Serra,Casa,60,2,1,0,"R$ 600,00","R$ 85,00","R$ 81,66",-21.79245575,-43.36744564
+130,Juiz de Fora - MG,Granbery,Casa,60,2,1,0,"R$ 600,00","R$ 85,00","R$ 81,50",-21.7675479,-43.3437945
+131,Juiz de Fora - MG,Santa Catarina,Apartamento,70,3,2,1,"R$ 800,00","R$ 200,00","R$ 128,00",-21.7508782,-43.3592871
+132,Juiz de Fora - MG,Jardim do Sol,Apartamento,300,3,0,10,"R$ 3.700,00","R$ 256,00","R$ 179,00",-21.7610522,-43.3273824
+133,Juiz de Fora - MG,São Pedro,Studio,155,5,3,3,"R$ 3.900,00","R$ 0,00","R$ 262,83",-21.7708213,-43.3879244
+134,Juiz de Fora - MG,Centro,Studio,70,2,1,1,"R$ 800,00","R$ 150,00","R$ 140,00",-21.759859,-43.3467271
+135,Juiz de Fora - MG,Centro,Apartamento,70,2,1,0,"R$ 650,00","R$ 155,00","R$ 60,45",-21.759859,-43.3467271
+136,Juiz de Fora - MG,Bairu,Apartamento,29,1,1,0,"R$ 1.000,00","R$ 270,00","R$ 0,00",-21.7375744,-43.3506203
+137,Juiz de Fora - MG,Bairu,Apartamento,42,1,1,0,"R$ 780,00","R$ 409,00","R$ 50,00",-21.7375744,-43.3506203
+138,Juiz de Fora - MG,Jardim Glória,Apartamento,0,1,1,0,"R$ 600,00","R$ 325,00","R$ 104,21",-21.7530822,-43.3579528
+139,Juiz de Fora - MG,Bom Pastor,Apartamento,90,3,2,1,"R$ 1.200,00","R$ 190,00","R$ 180,00",-21.7768003,-43.3433149
+140,Juiz de Fora - MG,Centro,Loja,90,3,2,2,"R$ 1.300,00","R$ 200,00","R$ 153,00",-21.759859,-43.3467271
+141,Juiz de Fora - MG,Centro,Loja,100,3,3,1,"R$ 1.300,00","R$ 410,00","R$ 130,00",-21.759859,-43.3467271
+142,Juiz de Fora - MG,Linhares,Apartamento,210,4,1,2,"R$ 2.200,00","R$ 1.200,00","R$ 293,01",-21.7352454,-43.325848
+143,Juiz de Fora - MG,Ladeira,GalpÃ£o,150,0,0,0,"R$ 1.500,00","R$ 120,00","R$ 120,00",-21.7417103,-43.4024649
+144,Juiz de Fora - MG,Santos Dumont,Loja,30,0,0,0,"R$ 1.100,00","R$ 0,00","R$ 42,20",-21.7809405,-43.3866819
+145,Juiz de Fora - MG,Mariano Procopio,Apartamento,30,0,1,0,"R$ 1.100,00","R$ 0,00","R$ 30,25",-21.7461726,-43.3556644
+146,Juiz de Fora - MG,Centro,Loja,0,0,0,0,"R$ 1.100,00","R$ 1.000,00","R$ 70,00",-21.759859,-43.3467271
+147,Juiz de Fora - MG,Centro,Apartamento,0,2,0,0,"R$ 600,00","R$ 150,00","R$ 0,00",-21.759859,-43.3467271
+148,Juiz de Fora - MG,Estrela Sul,Apartamento,217,0,1,0,"R$ 3.400,00","R$ 0,00","R$ 230,00",-21.7853626,-43.3546328
+149,Juiz de Fora - MG,São Pedro,Apartamento,76,0,1,0,"R$ 1.800,00","R$ 0,00","R$ 173,45",-21.7708213,-43.3879244
+150,Juiz de Fora - MG,Cascatinha,Apartamento,72,2,1,0,"R$ 963,00","R$ 0,00","R$ 0,00",-21.783859,-43.3630935
+151,Juiz de Fora - MG,Parque Jardim da Serra,Casa,100,0,2,3,"R$ 4.490,00","R$ 0,00","R$ 420,00",-21.79245575,-43.36744564
+152,Juiz de Fora - MG,Centro,Apartamento,56,2,1,1,"R$ 1.200,00","R$ 340,00","R$ 130,00",-21.759859,-43.3467271
+153,Juiz de Fora - MG,Centro,Loja,70,1,1,1,"R$ 890,00","R$ 280,00","R$ 129,00",-21.759859,-43.3467271
+154,Juiz de Fora - MG,Democrata,Apartamento,42,1,1,1,"R$ 1.600,00","R$ 412,17","R$ 0,00",-21.7496425,-43.3686212
+155,Juiz de Fora - MG,Jardim Glória,Apartamento,85,2,1,1,"R$ 1.700,00","R$ 200,00","R$ 141,00",-21.7530822,-43.3579528
+156,Juiz de Fora - MG,Teixeiras,Apartamento,320,4,7,3,"R$ 4.500,00","R$ 300,00","R$ 0,00",-21.7908663,-43.3623365
+157,Juiz de Fora - MG,Mundo Novo,Cobertura,40,1,1,0,"R$ 850,00","R$ 320,00","R$ 86,00",-21.7783002,-43.351185
+158,Juiz de Fora - MG,Granbery,Apartamento,34,0,0,0,"R$ 200,00","R$ 958,68","R$ 49,12",-21.7675479,-43.3437945
+159,Juiz de Fora - MG,Centro,Apartamento,88,2,2,1,"R$ 800,00","R$ 60,00","R$ 70,82",-21.759859,-43.3467271
+160,Juiz de Fora - MG,São Mateus,Loja,46,1,1,1,"R$ 900,00","R$ 160,00","R$ 79,92",-21.7735943,-43.3546617
+161,Juiz de Fora - MG,São Mateus,Apartamento,40,1,1,0,"R$ 650,00","R$ 150,00","R$ 0,00",-21.7735943,-43.3546617
+162,Juiz de Fora - MG,São Mateus,Apartamento,108,3,2,1,"R$ 1.500,00","R$ 0,00","R$ 66,00",-21.7735943,-43.3546617
+163,Juiz de Fora - MG,São Mateus,Apartamento,107,2,2,1,"R$ 600,00","R$ 260,00","R$ 157,65",-21.7735943,-43.3546617
+164,Juiz de Fora - MG,Centro,Apartamento,105,3,2,1,"R$ 1.300,00","R$ 367,00","R$ 182,00",-21.759859,-43.3467271
+165,Juiz de Fora - MG,Vila Ozanan,Apartamento,60,0,1,0,"R$ 2.500,00","R$ 0,00","R$ 160,00",-21.7725414,-43.3360635
+166,Juiz de Fora - MG,Cascatinha,Apartamento,43,1,1,1,"R$ 1.750,00","R$ 287,00","R$ 0,00",-21.783859,-43.3630935
+167,Juiz de Fora - MG,Granbery,Casa,43,1,1,1,"R$ 1.500,00","R$ 275,00","R$ 0,00",-21.7675479,-43.3437945
+168,Juiz de Fora - MG,Manoel Honorio,Casa,43,1,1,1,"R$ 1.750,00","R$ 287,00","R$ 0,00",-21.7435044,-43.3537058
+169,Juiz de Fora - MG,Centro,Apartamento,35,1,1,0,"R$ 600,00","R$ 340,00","R$ 150,00",-21.759859,-43.3467271
+170,Juiz de Fora - MG,Santos Dumont,Apartamento,70,2,1,1,"R$ 950,00","R$ 205,00","R$ 76,52",-21.7809405,-43.3866819
+171,Juiz de Fora - MG,Cascatinha,Apartamento,52,2,1,0,"R$ 700,00","R$ 150,00","R$ 95,81",-21.783859,-43.3630935
+172,Juiz de Fora - MG,São Mateus,Kitnet,396,5,4,3,"R$ 5.000,00","R$ 120,00","R$ 310,00",-21.7735943,-43.3546617
+173,Juiz de Fora - MG,Centro,Cobertura,98,3,1,6,"R$ 3.200,00","R$ 0,00","R$ 378,54",-21.759859,-43.3467271
+174,Juiz de Fora - MG,Nova Era,GalpÃ£o,75,2,2,2,"R$ 1.200,00","R$ 409,00","R$ 186,26",-21.7084989,-43.4211379
+175,Juiz de Fora - MG,Santa Isabel,Apartamento,50,2,1,0,"R$ 680,00","R$ 200,00","R$ 55,00",-21.7136402,-43.4251533
+176,Juiz de Fora - MG,São Mateus,Apartamento,57,1,1,1,"R$ 680,00","R$ 140,00","R$ 86,90",-21.7735943,-43.3546617
+177,Juiz de Fora - MG,Cascatinha,Apartamento,37,1,1,0,"R$ 600,00","R$ 268,00","R$ 66,37",-21.783859,-43.3630935
+178,Juiz de Fora - MG,Alto dos Passos,Apartamento,81,2,1,2,"R$ 1.400,00","R$ 200,00","R$ 70,00",-21.7762548,-43.3474599
+179,Juiz de Fora - MG,Centro,Kitnet,248,4,4,2,"R$ 3.000,00","R$ 770,00","R$ 362,77",-21.759859,-43.3467271
+180,Juiz de Fora - MG,Estrela Sul,Casa,480,0,3,0,"R$ 6.500,00","R$ 0,00","R$ 330,00",-21.7853626,-43.3546328
+181,Juiz de Fora - MG,Estrela Sul,Casa,50,2,1,1,"R$ 500,00","R$ 185,00","R$ 33,83",-21.7853626,-43.3546328
+182,Juiz de Fora - MG,Centro,Studio,40,2,1,0,"R$ 1.000,00","R$ 170,00","R$ 85,61",-21.759859,-43.3467271
+183,Juiz de Fora - MG,Centro,Sala,90,3,2,1,"R$ 1.500,00","R$ 257,18","R$ 145,52",-21.759859,-43.3467271
+184,Juiz de Fora - MG,Centro,Studio,86,2,2,1,"R$ 1.550,00","R$ 536,00","R$ 161,62",-21.759859,-43.3467271
+185,Juiz de Fora - MG,Santa Luzia,Apartamento,29,1,1,0,"R$ 520,00","R$ 280,00","R$ 63,00",-21.7868628,-43.3447472
+186,Juiz de Fora - MG,Fontesville ll,Casa,79,2,2,0,"R$ 650,00","R$ 40,00","R$ 75,00",-21.7369233,-43.4102621
+187,Juiz de Fora - MG,São Mateus,Apartamento,79,2,2,1,"R$ 700,00","R$ 40,00","R$ 75,00",-21.7735943,-43.3546617
+188,Juiz de Fora - MG,São Pedro,Terreno,55,1,1,1,"R$ 900,00","R$ 404,41","R$ 154,06",-21.7708213,-43.3879244
+189,Juiz de Fora - MG,Centro,Apartamento,32,0,1,0,"R$ 600,00","R$ 150,00","R$ 60,00",-21.759859,-43.3467271
+190,Juiz de Fora - MG,Bonfim,Apartamento,34,1,1,0,"R$ 950,00","R$ 150,00","R$ 120,00",-21.738407,-43.3447405
+191,Juiz de Fora - MG,Centro,Apartamento,86,2,1,1,"R$ 750,00","R$ 130,00","R$ 65,00",-21.759859,-43.3467271
+192,Juiz de Fora - MG,São Mateus,Apartamento,100,2,1,1,"R$ 1.200,00","R$ 0,00","R$ 120,00",-21.7735943,-43.3546617
+193,Juiz de Fora - MG,São Mateus,Apartamento,82,1,1,1,"R$ 1.800,00","R$ 400,00","R$ 150,00",-21.7735943,-43.3546617
+194,Juiz de Fora - MG,Morro da Glória,Apartamento,0,0,0,0,"R$ 4.200,00","R$ 0,00","R$ 300,00",-21.7491916,-43.354837
+195,Juiz de Fora - MG,São Pedro,Kitnet,49,1,1,0,"R$ 800,00","R$ 340,00","R$ 117,49",-21.7708213,-43.3879244
+196,Juiz de Fora - MG,Ipiranga,Casa,71,2,1,1,"R$ 800,00","R$ 252,00","R$ 76,00",-21.7910828,-43.3505054
+197,Juiz de Fora - MG,Vivendas da Serra,Apartamento,50,1,1,0,"R$ 600,00","R$ 270,00","R$ 96,00",-21.5597061,-43.0112788
+198,Juiz de Fora - MG,Centro,Apartamento,100,1,1,1,"R$ 1.200,00","R$ 200,00","R$ 125,00",-21.759859,-43.3467271
+199,Juiz de Fora - MG,Santa Terezinha,Apartamento,40,2,1,0,"R$ 1.000,00","R$ 170,00","R$ 98,61",-21.7417094,-43.3605186
+200,Juiz de Fora - MG,Estrela Sul,Loja,66,2,2,0,"R$ 900,00","R$ 250,00","R$ 120,00",-21.7853626,-43.3546328
+201,Juiz de Fora - MG,Passos,Apartamento,40,1,1,0,"R$ 800,00","R$ 102,00","R$ 0,00",-21.7762548,-43.3474599
+202,Juiz de Fora - MG,Estrela Sul,Loja,60,1,1,0,"R$ 560,00","R$ 0,00","R$ 40,00",-21.7853626,-43.3546328
+203,Juiz de Fora - MG,Centro,Apartamento,45,2,1,1,"R$ 750,00","R$ 222,00","R$ 50,00",-21.759859,-43.3467271
+204,Juiz de Fora - MG,Bosque do Imperador,Casa,100,3,0,0,"R$ 800,00","R$ 500,00","R$ 200,00",-21.7741178,-43.4021977
+205,Juiz de Fora - MG,Residência,Cobertura,70,2,1,1,"R$ 1.800,00","R$ 305,00","R$ 79,05",-21.1346878,-44.26396787
+206,Juiz de Fora - MG,Realeza,Apartamento,60,0,0,0,"R$ 2.990,00","R$ 0,00","R$ 660,00",-21.7485282,-43.4037614
+207,Juiz de Fora - MG,Teixeiras,Loja,63,2,2,0,"R$ 1.100,00","R$ 0,00","R$ 0,00",-21.7908663,-43.3623365
+208,Juiz de Fora - MG,Parque Guarani,Apartamento,65,0,0,0,"R$ 2.990,00","R$ 0,00","R$ 660,00",-21.3698876,-42.9633495
+209,Juiz de Fora - MG,Centro,Apartamento,97,4,3,0,"R$ 1.350,00","R$ 407,00","R$ 166,00",-21.759859,-43.3467271
+210,Juiz de Fora - MG,Valadares,Casa,220,3,4,4,"R$ 4.200,00","R$ 0,00","R$ 240,75",-21.7611973,-43.6041153
+211,Juiz de Fora - MG,Manoel Honorio,Loja,104,2,3,1,"R$ 2.500,00","R$ 275,00","R$ 175,00",-21.7435044,-43.3537058
+212,Juiz de Fora - MG,Centro,Loja,57,2,1,1,"R$ 580,00","R$ 200,00","R$ 19,40",-21.759859,-43.3467271
+213,Juiz de Fora - MG,Laranjeiras,Apartamento,240,0,3,3,"R$ 8.000,00","R$ 0,00","R$ 90,00",-21.7528915,-43.2762786
+214,Juiz de Fora - MG,São Pedro,Loja,74,2,1,1,"R$ 650,00","R$ 233,60","R$ 33,06",-21.7708213,-43.3879244
+215,Juiz de Fora - MG,São Mateus,Apartamento,94,2,2,1,"R$ 1.480,00","R$ 296,00","R$ 125,59",-21.7735943,-43.3546617
+216,Juiz de Fora - MG,São Pedro,Casa,150,3,2,4,"R$ 2.900,00","R$ 115,00","R$ 0,01",-21.7708213,-43.3879244
+217,Juiz de Fora - MG,Centro,GalpÃ£o,64,0,1,0,"R$ 1.000,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+218,Juiz de Fora - MG,Alto dos Pinheiros,Apartamento,32,0,0,0,"R$ 4.980,00","R$ 0,00","R$ 470,00",-21.7633035,-43.3778164
+219,Juiz de Fora - MG,Grama,Casa,99,2,2,1,"R$ 1.300,00","R$ 235,00","R$ 145,00",-21.6957214,-43.3521846
+220,Juiz de Fora - MG,Francisco Bernardino,Loja,45,0,1,0,"R$ 5.000,00","R$ 0,00","R$ 300,00",-21.73497,-43.3982458
+221,Juiz de Fora - MG,São Mateus,Sala,50,1,1,1,"R$ 500,00","R$ 300,00","R$ 152,00",-21.7735943,-43.3546617
+222,Juiz de Fora - MG,Vale do Ipe,Apartamento,140,4,1,0,"R$ 2.990,00","R$ 0,00","R$ 190,00",-21.7533384,-43.3648613
+223,Juiz de Fora - MG,Centro,Sala,"1,200",0,3,0,"R$ 12.000,00","R$ 0,00","R$ 317,00",-21.759859,-43.3467271
+224,Juiz de Fora - MG,Centro,Loja,87,2,2,2,"R$ 1.200,00","R$ 190,00","R$ 77,00",-21.759859,-43.3467271
+225,Juiz de Fora - MG,Centro,Loja,320,3,2,5,"R$ 3.200,00","R$ 0,00","R$ 260,00",-21.759859,-43.3467271
+226,Juiz de Fora - MG,Centro,Loja,27,0,1,0,"R$ 650,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+227,Juiz de Fora - MG,Poço Rico,GalpÃ£o,88,0,1,0,"R$ 2.000,00","R$ 75,00","R$ 153,00",-21.763706,-43.3392047
+228,Juiz de Fora - MG,Costa Carvalho,GalpÃ£o,65,2,1,0,"R$ 800,00","R$ 120,00","R$ 100,00",-21.763468,-43.3319785
+229,Juiz de Fora - MG,Centro,Loja,60,0,1,0,"R$ 1.250,00","R$ 450,00","R$ 73,00",-21.759859,-43.3467271
+230,Juiz de Fora - MG,Santa Helena,PrÃ©dio,440,0,0,0,"R$ 18.000,00","R$ 0,00","R$ 1.200,00",-21.7575053,-43.3561412
+231,Juiz de Fora - MG,Parque Guarani,Apartamento,50,0,0,0,"R$ 1.700,00","R$ 330,00","R$ 285,00",-21.3698876,-42.9633495
+232,Juiz de Fora - MG,Centro,Apartamento,220,0,3,3,"R$ 4.900,00","R$ 0,00","R$ 420,00",-21.759859,-43.3467271
+233,Juiz de Fora - MG,Teixeiras,Apartamento,260,0,4,0,"R$ 5.500,00","R$ 0,00","R$ 400,00",-21.7908663,-43.3623365
+234,Juiz de Fora - MG,Nossa Senhora Aparecida,GalpÃ£o,200,0,0,0,"R$ 2.700,00","R$ 0,00","R$ 527,00",-21.7465479,-43.3473422
+235,Juiz de Fora - MG,Centro,Sala,254,0,2,0,"R$ 6.500,00","R$ 0,00","R$ 821,90",-21.759859,-43.3467271
+236,Juiz de Fora - MG,Centro,Apartamento,488,0,0,0,"R$ 14.000,00","R$ 200,00","R$ 590,00",-21.759859,-43.3467271
+237,Juiz de Fora - MG,São Pedro,Casa,60,2,1,1,"R$ 600,00","R$ 220,00","R$ 65,00",-21.7708213,-43.3879244
+238,Juiz de Fora - MG,Santa Terezinha,Casa,88,2,3,0,"R$ 1.380,00","R$ 416,00","R$ 145,00",-21.7417094,-43.3605186
+239,Juiz de Fora - MG,São Pedro,Apartamento,63,2,1,1,"R$ 800,00","R$ 0,00","R$ 0,00",-21.7708213,-43.3879244
+240,Juiz de Fora - MG,Centro,Loja,450,0,2,0,"R$ 2.500,00","R$ 0,00","R$ 184,00",-21.759859,-43.3467271
+241,Juiz de Fora - MG,Centro,Casa,260,0,2,0,"R$ 4.800,00","R$ 255,00","R$ 325,00",-21.759859,-43.3467271
+242,Juiz de Fora - MG,Marilândia,Loja,60,2,1,0,"R$ 750,00","R$ 158,40","R$ 185,26",-21.7871711,-43.3907351
+243,Juiz de Fora - MG,Centro,Loja,525,3,1,2,"R$ 4.500,00","R$ 0,00","R$ 54,24",-21.759859,-43.3467271
+244,Juiz de Fora - MG,Bandeirantes,Loja,350,5,3,1,"R$ 6.000,00","R$ 0,00","R$ 180,00",-21.7215787,-43.3541886
+245,Juiz de Fora - MG,Alto dos Passos,Loja,77,2,1,1,"R$ 800,00","R$ 192,00","R$ 133,46",-21.7762548,-43.3474599
+246,Juiz de Fora - MG,Centro,Apartamento,130,0,1,0,"R$ 9.000,00","R$ 0,00","R$ 665,00",-21.759859,-43.3467271
+247,Juiz de Fora - MG,Nova Era,Apartamento,985,0,10,28,"R$ 25.000,00","R$ 0,00","R$ 555,00",-21.7084989,-43.4211379
+248,Juiz de Fora - MG,Teixeiras,Apartamento,600,0,4,0,"R$ 20.000,00","R$ 0,00","R$ 0,00",-21.7908663,-43.3623365
+249,Juiz de Fora - MG,Alto dos Passos,Apartamento,380,0,4,0,"R$ 20.000,00","R$ 0,00","R$ 1.150,00",-21.7762548,-43.3474599
+250,Juiz de Fora - MG,Santa Luzia,Apartamento,86,0,1,1,"R$ 2.250,00","R$ 0,00","R$ 0,00",-21.7868628,-43.3447472
+251,Juiz de Fora - MG,Grama,Sobrado,260,0,0,7,"R$ 6.000,00","R$ 219,00","R$ 388,67",-21.6957214,-43.3521846
+252,Juiz de Fora - MG,São Mateus,Apartamento,40,1,1,0,"R$ 570,00","R$ 350,00","R$ 70,00",-21.7735943,-43.3546617
+253,Juiz de Fora - MG,Santa Terezinha,GalpÃ£o,50,2,1,0,"R$ 480,00","R$ 140,00","R$ 30,00",-21.7417094,-43.3605186
+254,Juiz de Fora - MG,São Mateus,Apartamento,40,1,1,0,"R$ 650,00","R$ 150,00","R$ 0,00",-21.7735943,-43.3546617
+255,Juiz de Fora - MG,Cascatinha,Apartamento,0,0,0,0,"R$ 160,00","R$ 0,01","R$ 0,00",-21.783859,-43.3630935
+256,Juiz de Fora - MG,Bairro Industrial,Apartamento,104,2,1,2,"R$ 1.800,00","R$ 453,80","R$ 180,49",-21.5216117,-43.0156222
+257,Juiz de Fora - MG,Santa Cândida,Casa,75,2,1,0,"R$ 700,00","R$ 0,00","R$ 67,00",-21.7523138,-43.3376269
+258,Juiz de Fora - MG,Santos Anjos,Apartamento,70,3,2,0,"R$ 650,00","R$ 0,00","R$ 39,00",-21.7539516,-43.3438908
+259,Juiz de Fora - MG,Centro,Loja,65,1,1,0,"R$ 1.300,00","R$ 270,00","R$ 125,00",-21.759859,-43.3467271
+260,Juiz de Fora - MG,Nova Era,Apartamento,200,0,2,0,"R$ 3.700,00","R$ 0,00","R$ 192,40",-21.7084989,-43.4211379
+261,Juiz de Fora - MG,Bairu,Apartamento,77,2,1,1,"R$ 890,00","R$ 200,00","R$ 127,65",-21.7375744,-43.3506203
+262,Juiz de Fora - MG,Bandeirantes,Casa,90,2,1,1,"R$ 1.100,00","R$ 210,00","R$ 146,98",-21.7215787,-43.3541886
+263,Juiz de Fora - MG,Jardim de Ala,Cobertura,52,2,1,1,"R$ 600,00","R$ 262,00","R$ 84,00",-21.7922414,-43.3473574
+264,Juiz de Fora - MG,Progresso,Apartamento,0,2,2,1,"R$ 1.000,00","R$ 0,00","R$ 30,00",-21.730895,-43.3464281
+265,Juiz de Fora - MG,Centro,Loja,100,2,1,0,"R$ 850,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+266,Juiz de Fora - MG,São Mateus,Cobertura,69,0,2,0,"R$ 7.000,00","R$ 260,00","R$ 315,15",-21.7735943,-43.3546617
+267,Juiz de Fora - MG,Jardim de Ala,Apartamento,79,2,1,1,"R$ 800,00","R$ 220,00","R$ 0,00",-21.7922414,-43.3473574
+268,Juiz de Fora - MG,Benfica,Loja,46,1,1,0,"R$ 600,00","R$ 180,00","R$ 101,00",-21.6902673,-43.4361424
+269,Juiz de Fora - MG,Centro,Studio,60,1,1,0,"R$ 550,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+270,Juiz de Fora - MG,Centro,Apartamento,104,2,1,0,"R$ 750,00","R$ 100,00","R$ 0,00",-21.759859,-43.3467271
+271,Juiz de Fora - MG,Centro,Apartamento,90,3,1,1,"R$ 1.300,00","R$ 140,00","R$ 161,29",-21.759859,-43.3467271
+272,Juiz de Fora - MG,Centro,Studio,50,0,1,0,"R$ 2.400,00","R$ 1.100,00",$90,-21.759859,-43.3467271
+273,Juiz de Fora - MG,Centro,Studio,244,4,4,2,"R$ 3.200,00","R$ 333,00","R$ 243,00",-21.759859,-43.3467271
+274,Juiz de Fora - MG,Centro,Studio,120,2,1,0,"R$ 750,00","R$ 100,00","R$ 0,00",-21.759859,-43.3467271
+275,Juiz de Fora - MG,São Pedro,Apartamento,40,0,0,0,"R$ 1.300,00","R$ 70,00","R$ 50,00",-21.7708213,-43.3879244
+276,Juiz de Fora - MG,Francisco Bernardino,Apartamento,30,1,1,0,"R$ 1.100,00","R$ 150,00","R$ 120,00",-21.73497,-43.3982458
+277,Juiz de Fora - MG,Centro,Loja,30,1,1,0,"R$ 1.100,00","R$ 150,00","R$ 120,00",-21.759859,-43.3467271
+278,Juiz de Fora - MG,Passos,Apartamento,30,1,1,0,"R$ 1.100,00","R$ 150,00","R$ 120,00",-21.7762548,-43.3474599
+279,Juiz de Fora - MG,São Mateus,Apartamento,30,1,1,0,"R$ 1.100,00","R$ 150,00","R$ 120,00",-21.7735943,-43.3546617
+280,Juiz de Fora - MG,Centro,Apartamento,30,1,1,0,"R$ 1.100,00","R$ 150,00","R$ 120,00",-21.759859,-43.3467271
+281,Juiz de Fora - MG,São Pedro,Kitnet,30,1,1,0,"R$ 1.100,00","R$ 200,00","R$ 120,00",-21.7708213,-43.3879244
+282,Juiz de Fora - MG,Centro,Apartamento,91,2,2,1,"R$ 700,00","R$ 178,00","R$ 100,07",-21.759859,-43.3467271
+283,Juiz de Fora - MG,Cascatinha,Apartamento,50,2,1,1,"R$ 500,00","R$ 175,00","R$ 23,35",-21.783859,-43.3630935
+284,Juiz de Fora - MG,Vitorino Braga,Sobrado,120,0,0,0,"R$ 5.000,00","R$ 0,00","R$ 212,48",-21.7498578,-43.3418637
+285,Juiz de Fora - MG,Centro,Flat,55,2,1,1,"R$ 850,00","R$ 164,00","R$ 88,00",-21.759859,-43.3467271
+286,Juiz de Fora - MG,Bandeirantes,Apartamento,80,2,3,2,"R$ 1.300,00","R$ 350,00","R$ 160,00",-21.7215787,-43.3541886
+287,Juiz de Fora - MG,Paineiras,Apartamento,74,2,1,1,"R$ 1.100,00","R$ 255,00","R$ 12,92",-21.7657334,-43.3551152
+288,Juiz de Fora - MG,Santa Terezinha,Apartamento,30,1,1,0,"R$ 750,00","R$ 151,38","R$ 35,76",-21.7417094,-43.3605186
+289,Juiz de Fora - MG,Santa Terezinha,Apartamento,55,1,2,0,"R$ 700,00","R$ 130,00","R$ 71,00",-21.7417094,-43.3605186
+290,Juiz de Fora - MG,Democrata,Apartamento,90,3,2,1,"R$ 1.700,00","R$ 359,00","R$ 146,00",-21.7496425,-43.3686212
+291,Juiz de Fora - MG,Centro,Apartamento,0,3,2,0,"R$ 1.000,00","R$ 0,00","R$ 72,00",-21.759859,-43.3467271
+292,Juiz de Fora - MG,Centro,Loja,66,1,1,0,"R$ 1.000,00","R$ 520,00","R$ 144,00",-21.759859,-43.3467271
+293,Juiz de Fora - MG,Centro,Loja,84,3,1,1,"R$ 1.400,00","R$ 126,00","R$ 74,00",-21.759859,-43.3467271
+294,Juiz de Fora - MG,Centro,Sala,53,1,1,0,"R$ 600,00","R$ 150,00","R$ 697,29",-21.759859,-43.3467271
+295,Juiz de Fora - MG,Centro,Studio,70,2,1,0,"R$ 860,00","R$ 150,00","R$ 75,00",-21.759859,-43.3467271
+296,Juiz de Fora - MG,Centro,Apartamento,70,2,1,1,"R$ 900,00","R$ 150,00","R$ 68,00",-21.759859,-43.3467271
+297,Juiz de Fora - MG,Figueiras,Casa,70,1,1,0,"R$ 750,00","R$ 100,00","R$ 35,00",-21.6668156,-43.3008319
+298,Juiz de Fora - MG,Centro,Apartamento,68,3,1,0,"R$ 900,00","R$ 290,00","R$ 131,58",-21.759859,-43.3467271
+299,Juiz de Fora - MG,Centro,Apartamento,40,0,1,0,"R$ 1.000,00","R$ 500,00","R$ 183,00",-21.759859,-43.3467271
+300,Juiz de Fora - MG,Vale do Ipe,Apartamento,160,0,2,0,"R$ 3.500,00","R$ 0,00","R$ 282,00",-21.7533384,-43.3648613
+301,Juiz de Fora - MG,Centro,Studio,171,0,3,3,"R$ 6.900,00","R$ 1.470,00","R$ 440,00",-21.759859,-43.3467271
+302,Juiz de Fora - MG,Centro,Studio,30,0,1,0,"R$ 1.400,00","R$ 200,00","R$ 120,00",-21.759859,-43.3467271
+303,Juiz de Fora - MG,Centro,Apartamento,56,1,1,1,"R$ 850,00","R$ 320,00","R$ 145,00",-21.759859,-43.3467271
+304,Juiz de Fora - MG,Centro,Loja,310,5,5,5,"R$ 2.500,00","R$ 150,00","R$ 375,00",-21.759859,-43.3467271
+305,Juiz de Fora - MG,Centro,Apartamento,33,1,1,0,"R$ 720,00","R$ 282,80","R$ 89,66",-21.759859,-43.3467271
+306,Juiz de Fora - MG,Bandeirantes,Casa,33,1,1,0,"R$ 720,00","R$ 282,80","R$ 89,66",-21.7215787,-43.3541886
+307,Juiz de Fora - MG,Centro,Apartamento,99,2,2,1,"R$ 800,00","R$ 120,00","R$ 120,00",-21.759859,-43.3467271
+308,Juiz de Fora - MG,Bom Pastor,Apartamento,32,1,1,1,"R$ 1.300,00","R$ 200,00","R$ 0,00",-21.7768003,-43.3433149
+309,Juiz de Fora - MG,Santa Helena,Cobertura,34,1,1,0,"R$ 1.600,00","R$ 200,00","R$ 0,00",-21.7575053,-43.3561412
+310,Juiz de Fora - MG,Cerâmica,GalpÃ£o,55,2,2,0,"R$ 700,00","R$ 175,00","R$ 105,08",-21.7390891,-43.3846447
+311,Juiz de Fora - MG,Santa Helena,Apartamento,130,0,3,0,"R$ 4.990,00","R$ 0,00","R$ 3.570,00",-21.7575053,-43.3561412
+312,Juiz de Fora - MG,Parque Jardim da Serra,Casa,140,3,3,2,"R$ 2.700,00","R$ 942,00","R$ 282,00",-21.79245575,-43.36744564
+313,Juiz de Fora - MG,Centro,Apartamento,290,5,4,3,"R$ 5.500,00","R$ 0,00","R$ 521,00",-21.759859,-43.3467271
+314,Juiz de Fora - MG,São Pedro,Apartamento,65,2,0,1,"R$ 800,00","R$ 120,00","R$ 100,00",-21.7708213,-43.3879244
+315,Juiz de Fora - MG,Santa Terezinha,Apartamento,65,2,2,1,"R$ 1.300,00","R$ 365,00","R$ 163,00",-21.7417094,-43.3605186
+316,Juiz de Fora - MG,Bom Pastor,Apartamento,85,2,2,1,"R$ 900,00","R$ 476,52","R$ 162,00",-21.7768003,-43.3433149
+317,Juiz de Fora - MG,Passos,Loja,310,4,6,4,"R$ 6.000,00","R$ 2.442,00","R$ 621,00",-21.7762548,-43.3474599
+318,Juiz de Fora - MG,São Pedro,Apartamento,310,4,4,4,"R$ 4.500,00","R$ 460,00","R$ 436,20",-21.7708213,-43.3879244
+319,Juiz de Fora - MG,Centro,Apartamento,450,0,7,1,"R$ 3.500,00","R$ 0,00","R$ 300,00",-21.759859,-43.3467271
+320,Juiz de Fora - MG,Estrela Sul,Studio,235,4,4,2,"R$ 3.500,00","R$ 750,00","R$ 375,00",-21.7853626,-43.3546328
+321,Juiz de Fora - MG,Centro,Apartamento,120,3,4,0,"R$ 3.700,00","R$ 256,00","R$ 179,00",-21.759859,-43.3467271
+322,Juiz de Fora - MG,São Mateus,Apartamento,40,1,1,0,"R$ 700,00","R$ 265,00","R$ 66,62",-21.7735943,-43.3546617
+323,Juiz de Fora - MG,Bom Jardim,Apartamento,48,2,1,1,"R$ 1.100,00","R$ 220,00","R$ 70,47",-21.734464,-43.3354923
+324,Juiz de Fora - MG,Jardim Glória,Casa,98,3,1,0,"R$ 1.500,00","R$ 300,00","R$ 85,00",-21.7530822,-43.3579528
+325,Juiz de Fora - MG,São Mateus,Cobertura,94,2,1,1,"R$ 1.100,00","R$ 582,00","R$ 156,00",-21.7735943,-43.3546617
+326,Juiz de Fora - MG,Bom Pastor,Casa,35,0,1,0,"R$ 2.500,00","R$ 0,00","R$ 140,00",-21.7768003,-43.3433149
+327,Juiz de Fora - MG,Portal da Torre,Casa,80,2,2,1,"R$ 1.600,00","R$ 150,00","R$ 80,00",-21.7687212,-43.38270409
+328,Juiz de Fora - MG,Fábrica,Loja,0,2,1,0,"R$ 640,00","R$ 150,00","R$ 133,77",-21.7443938,-43.3709832
+329,Juiz de Fora - MG,Centro,Loja,49,1,1,1,"R$ 1.300,00","R$ 280,00","R$ 94,22",-21.759859,-43.3467271
+330,Juiz de Fora - MG,São Pedro,Casa,85,2,1,1,"R$ 1.300,00","R$ 511,00","R$ 129,52",-21.7708213,-43.3879244
+331,Juiz de Fora - MG,Centro,Loja,103,3,2,1,"R$ 1.750,00","R$ 631,00","R$ 159,84",-21.759859,-43.3467271
+332,Juiz de Fora - MG,Centro,Apartamento,60,2,1,1,"R$ 650,00","R$ 150,00","R$ 0,00",-21.759859,-43.3467271
+333,Juiz de Fora - MG,Carlos Chagas,Apartamento,120,3,0,3,"R$ 2.500,00","R$ 0,00","R$ 275,00",-21.744351,-43.3908675
+334,Juiz de Fora - MG,São Mateus,Apartamento,145,4,1,0,"R$ 1.800,00","R$ 470,00","R$ 412,00",-21.7735943,-43.3546617
+335,Juiz de Fora - MG,Alto dos Passos,Apartamento,102,3,2,0,"R$ 4.500,00","R$ 0,00","R$ 440,00",-21.7762548,-43.3474599
+336,Juiz de Fora - MG,Granbery,Apartamento,250,4,3,3,"R$ 7.000,00","R$ 300,00","R$ 435,89",-21.7675479,-43.3437945
+337,Juiz de Fora - MG,Alto dos Passos,Apartamento,150,0,2,0,"R$ 2.400,00","R$ 0,00","R$ 116,00",-21.7762548,-43.3474599
+338,Juiz de Fora - MG,Alto dos Passos,Loja,15,0,0,0,"R$ 1.800,00","R$ 0,00","R$ 0,00",-21.7762548,-43.3474599
+339,Juiz de Fora - MG,Alto dos Passos,Loja,140,2,1,2,"R$ 3.000,00","R$ 0,00","R$ 0,00",-21.7762548,-43.3474599
+340,Juiz de Fora - MG,Centro,Apartamento,0,0,1,0,"R$ 10.000,00","R$ 0,00","R$ 690,82",-21.759859,-43.3467271
+341,Juiz de Fora - MG,Fábrica,Casa,86,3,2,0,"R$ 800,00","R$ 180,00","R$ 71,00",-21.7443938,-43.3709832
+342,Juiz de Fora - MG,Manoel Honorio,Loja,54,2,1,1,"R$ 550,00","R$ 206,00","R$ 40,00",-21.7435044,-43.3537058
+343,Juiz de Fora - MG,Paineiras,Apartamento,196,3,4,2,"R$ 4.700,00","R$ 1.200,00","R$ 384,23",-21.7657334,-43.3551152
+344,Juiz de Fora - MG,Monte Castelo,Casa,81,2,1,2,"R$ 900,00","R$ 250,00","R$ 90,00",-21.7477591,-43.3826033
+345,Juiz de Fora - MG,Alto dos Passos,Casa,68,2,1,1,"R$ 900,00","R$ 270,00","R$ 0,00",-21.7762548,-43.3474599
+346,Juiz de Fora - MG,Centro,Apartamento,107,3,2,1,"R$ 1.800,00","R$ 810,19","R$ 218,30",-21.759859,-43.3467271
+347,Juiz de Fora - MG,Paineiras,Apartamento,59,0,1,0,"R$ 1.200,00","R$ 140,00","R$ 151,41",-21.7657334,-43.3551152
+348,Juiz de Fora - MG,Amazônia,Apartamento,59,0,1,0,"R$ 1.200,00","R$ 140,00","R$ 151,41",-21.7469569,-43.401645
+349,Juiz de Fora - MG,Cidade do Sol,Apartamento,71,2,1,1,"R$ 1.490,00","R$ 176,01","R$ 87,82",-21.7192878,-43.4091603
+350,Juiz de Fora - MG,-,Apartamento,0,3,1,0,"R$ 1.300,00","R$ 0,00","R$ 70,00",-21.7609533,-43.3501129
+351,Juiz de Fora - MG,Cidade do Sol,GalpÃ£o,286,0,1,0,"R$ 4.000,00","R$ 0,00","R$ 440,00",-21.7192878,-43.4091603
+352,Juiz de Fora - MG,Benfica,Casa,120,3,0,1,"R$ 1.250,00","R$ 202,00","R$ 170,00",-21.6902673,-43.4361424
+353,Juiz de Fora - MG,Cidade do Sol,Casa,12,3,1,0,"R$ 700,00","R$ 0,00","R$ 0,00",-21.7192878,-43.4091603
+354,Juiz de Fora - MG,Santa Maria,Apartamento,372,10,4,0,"R$ 6.000,00","R$ 0,00","R$ 665,00",-21.7221307,-43.4077711
+355,Juiz de Fora - MG,Joquei Clube,Apartamento,65,2,1,1,"R$ 1.490,00","R$ 177,00","R$ 87,80",-21.7258339,-43.397439
+356,Juiz de Fora - MG,Santa Maria,Apartamento,65,2,1,1,"R$ 950,00","R$ 197,87","R$ 93,44",-21.7221307,-43.4077711
+357,Juiz de Fora - MG,Bom Pastor,Apartamento,80,2,1,1,"R$ 700,00","R$ 0,00","R$ 0,00",-21.7768003,-43.3433149
+358,Juiz de Fora - MG,São Mateus,Apartamento,60,3,1,1,"R$ 650,00","R$ 155,00","R$ 40,00",-21.7735943,-43.3546617
+359,Juiz de Fora - MG,Centro,Apartamento,50,2,1,1,"R$ 750,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+360,Juiz de Fora - MG,Centro,Apartamento,571,0,3,0,"R$ 3.500,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+361,Juiz de Fora - MG,Cidade do Sol,Apartamento,0,3,0,1,"R$ 600,00","R$ 0,00","R$ 0,00",-21.7192878,-43.4091603
+362,Juiz de Fora - MG,Bom Jardim,Apartamento,0,2,2,2,"R$ 1.200,00","R$ 0,00","R$ 0,00",-21.734464,-43.3354923
+363,Juiz de Fora - MG,São Mateus,Apartamento,81,3,2,1,"R$ 700,00","R$ 200,00","R$ 73,89",-21.7735943,-43.3546617
+364,Juiz de Fora - MG,Centro,Kitnet,0,3,0,0,"R$ 999,19","R$ 0,00","R$ 64,97",-21.759859,-43.3467271
+365,Juiz de Fora - MG,Centro,Apartamento,71,3,0,1,"R$ 670,00","R$ 140,00","R$ 0,00",-21.759859,-43.3467271
+366,Juiz de Fora - MG,Barbosa Lage,Apartamento,70,2,1,0,"R$ 800,00","R$ 0,00","R$ 125,00",-21.719425,-43.396732
+367,Juiz de Fora - MG,Dom Bosco,Apartamento,50,1,1,0,"R$ 1.250,00","R$ 380,00","R$ 129,75",-21.7783082,-43.3626032
+368,Juiz de Fora - MG,São Mateus,Loja,33,1,1,0,"R$ 1.500,00","R$ 138,79","R$ 0,00",-21.7735943,-43.3546617
+369,Juiz de Fora - MG,Jardim de Ala,Loja,33,1,1,0,"R$ 1.500,00","R$ 138,79","R$ 0,00",-21.7922414,-43.3473574
+370,Juiz de Fora - MG,Jardim Glória,Apartamento,63,2,0,1,"R$ 650,00","R$ 130,00","R$ 33,73",-21.7530822,-43.3579528
+371,Juiz de Fora - MG,Cascatinha,Casa,45,2,2,1,"R$ 600,00","R$ 150,00","R$ 3,17",-21.783859,-43.3630935
+372,Juiz de Fora - MG,Estrela Sul,Sala,67,2,1,1,"R$ 1.100,00","R$ 170,00","R$ 129,10",-21.7853626,-43.3546328
+373,Juiz de Fora - MG,Centro,Loja,40,1,1,0,"R$ 800,00","R$ 163,00","R$ 90,00",-21.759859,-43.3467271
+374,Juiz de Fora - MG,Paineiras,Loja,71,2,2,0,"R$ 700,00","R$ 410,58","R$ 129,92",-21.7657334,-43.3551152
+375,Juiz de Fora - MG,São Mateus,Loja,0,2,1,0,"R$ 850,00","R$ 235,00","R$ 62,00",-21.7735943,-43.3546617
+376,Juiz de Fora - MG,Santa Catarina,Apartamento,65,2,1,0,"R$ 900,00","R$ 70,00","R$ 73,93",-21.7508782,-43.3592871
+377,Juiz de Fora - MG,Democrata,Apartamento,26,0,0,0,"R$ 800,00","R$ 100,00","R$ 74,00",-21.7496425,-43.3686212
+378,Juiz de Fora - MG,São Mateus,Apartamento,30,0,1,0,"R$ 760,00","R$ 100,00","R$ 45,00",-21.7735943,-43.3546617
+379,Juiz de Fora - MG,Lourdes,Casa,71,2,1,0,"R$ 800,00","R$ 150,00","R$ 120,00",-21.7704781,-43.3286484
+380,Juiz de Fora - MG,Centro,Apartamento,262,4,4,2,"R$ 4.300,00","R$ 0,00","R$ 448,00",-21.759859,-43.3467271
+381,Juiz de Fora - MG,São Mateus,Loja,414,0,2,0,"R$ 12.000,00","R$ 228,00","R$ 540,00",-21.7735943,-43.3546617
+382,Juiz de Fora - MG,Centro,Sala,70,0,1,0,"R$ 2.500,00","R$ 0,00","R$ 85,00",-21.759859,-43.3467271
+383,Juiz de Fora - MG,São Pedro,Apartamento,59,0,1,0,"R$ 1.850,00","R$ 223,34","R$ 181,53",-21.7708213,-43.3879244
+384,Juiz de Fora - MG,Centro,Sala,0,0,1,0,"R$ 1.000,00","R$ 210,00","R$ 95,46",-21.759859,-43.3467271
+385,Juiz de Fora - MG,Centro,Loja,0,2,1,0,"R$ 750,00","R$ 60,00","R$ 91,00",-21.759859,-43.3467271
+386,Juiz de Fora - MG,Centro,Casa,47,2,1,1,"R$ 950,00","R$ 248,00","R$ 0,00",-21.759859,-43.3467271
+387,Juiz de Fora - MG,Cascatinha,Apartamento,90,2,2,0,"R$ 702,00","R$ 0,00","R$ 191,00",-21.783859,-43.3630935
+388,Juiz de Fora - MG,Vale do Ipe,Apartamento,75,3,1,1,"R$ 1.350,00","R$ 0,00","R$ 80,00",-21.7533384,-43.3648613
+389,Juiz de Fora - MG,Vale do Ipe,Apartamento,45,1,1,1,"R$ 1.000,00","R$ 200,00","R$ 170,00",-21.7533384,-43.3648613
+390,Juiz de Fora - MG,São Mateus,Apartamento,120,0,2,0,"R$ 4.500,00","R$ 400,00","R$ 211,93",-21.7735943,-43.3546617
+391,Juiz de Fora - MG,Jardim de Ala,Casa,131,0,2,2,"R$ 4.000,00","R$ 552,00","R$ 231,82",-21.7922414,-43.3473574
+392,Juiz de Fora - MG,Fábrica,Apartamento,40,1,1,1,"R$ 1.500,00","R$ 300,00","R$ 120,00",-21.7443938,-43.3709832
+393,Juiz de Fora - MG,Centro,Kitnet,32,0,1,2,"R$ 950,00","R$ 550,00","R$ 200,00",-21.759859,-43.3467271
+394,Juiz de Fora - MG,Grajau,Apartamento,50,0,0,0,"R$ 1.500,00","R$ 410,44","R$ 438,00",-21.7477021,-43.3446465
+395,Juiz de Fora - MG,Sagrado Coração de Jesus,Casa,300,0,0,2,"R$ 11.500,00","R$ 0,00","R$ 750,00",-21.8122295,-43.3601669
+396,Juiz de Fora - MG,Centro,Apartamento,80,2,2,1,"R$ 1.200,00","R$ 0,00","R$ 240,00",-21.759859,-43.3467271
+397,Juiz de Fora - MG,São Pedro,Sala,62,2,2,0,"R$ 800,00","R$ 120,00","R$ 120,00",-21.7708213,-43.3879244
+398,Juiz de Fora - MG,Bandeirantes,Loja,62,2,2,0,"R$ 800,00","R$ 120,00","R$ 120,00",-21.7215787,-43.3541886
+399,Juiz de Fora - MG,Centro,Sala,95,2,3,2,"R$ 1.600,00","R$ 591,55","R$ 280,41",-21.759859,-43.3467271
+400,Juiz de Fora - MG,Bom Jardim,Apartamento,0,2,0,1,"R$ 1.450,00","R$ 0,00","R$ 0,00",-21.734464,-43.3354923
+401,Juiz de Fora - MG,Ladeira,Casa,120,3,1,1,"R$ 1.000,00","R$ 400,00","R$ 134,50",-21.7417103,-43.4024649
+402,Juiz de Fora - MG,Cerâmica,GalpÃ£o,37,1,1,0,"R$ 550,00","R$ 272,73","R$ 53,05",-21.7390891,-43.3846447
+403,Juiz de Fora - MG,São Mateus,Sala,104,3,2,1,"R$ 1.050,00","R$ 150,00","R$ 80,00",-21.7735943,-43.3546617
+404,Juiz de Fora - MG,Estrela Sul,Apartamento,62,2,1,1,"R$ 950,00","R$ 0,00","R$ 0,00",-21.7853626,-43.3546328
+405,Juiz de Fora - MG,Granbery,Apartamento,63,3,1,0,"R$ 950,00","R$ 230,00","R$ 120,00",-21.7675479,-43.3437945
+406,Juiz de Fora - MG,Granbery,Apartamento,600,0,0,0,"R$ 10.000,00","R$ 0,00","R$ 200,00",-21.7675479,-43.3437945
+407,Juiz de Fora - MG,Granbery,Apartamento,67,0,1,1,"R$ 1.400,00","R$ 0,00","R$ 0,00",-21.7675479,-43.3437945
+408,Juiz de Fora - MG,Parque Independencia,Apartamento,45,0,1,0,"R$ 700,00","R$ 150,00","R$ 90,00",-21.686268,-43.3552042
+409,Juiz de Fora - MG,São Mateus,Apartamento,60,2,1,1,"R$ 790,00","R$ 70,00","R$ 0,00",-21.7735943,-43.3546617
+410,Juiz de Fora - MG,Centro,Sala,55,1,1,0,"R$ 750,00","R$ 42,50","R$ 0,00",-21.759859,-43.3467271
+411,Juiz de Fora - MG,Centro,Studio,600,0,0,0,"R$ 10.000,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+412,Juiz de Fora - MG,São Mateus,Apartamento,95,0,0,0,"R$ 2.000,00","R$ 80,00","R$ 154,00",-21.7735943,-43.3546617
+413,Juiz de Fora - MG,Centro,Apartamento,177,3,3,2,"R$ 2.800,00","R$ 880,00","R$ 311,00",-21.759859,-43.3467271
+414,Juiz de Fora - MG,Centro,Apartamento,44,1,1,0,"R$ 1.100,00","R$ 200,00","R$ 0,00",-21.759859,-43.3467271
+415,Juiz de Fora - MG,Centro,Casa,79,2,1,1,"R$ 900,00","R$ 220,00","R$ 140,00",-21.759859,-43.3467271
+416,Juiz de Fora - MG,Bom Clima,Casa,60,2,1,1,"R$ 750,00","R$ 230,00","R$ 99,90",-21.7277581,-43.3600894
+417,Juiz de Fora - MG,Cascatinha,Apartamento,55,2,1,1,"R$ 585,00","R$ 165,00","R$ 18,00",-21.783859,-43.3630935
+418,Juiz de Fora - MG,Santa Isabel,Cobertura,67,2,1,1,"R$ 1.100,00","R$ 170,00","R$ 129,10",-21.7136402,-43.4251533
+419,Juiz de Fora - MG,Centro,Apartamento,46,0,1,1,"R$ 1.000,00","R$ 461,69","R$ 174,98",-21.759859,-43.3467271
+420,Juiz de Fora - MG,São Mateus,Sala,31,1,1,0,"R$ 1.350,00","R$ 138,79","R$ 0,00",-21.7735943,-43.3546617
+421,Juiz de Fora - MG,Centro,Studio,40,1,1,0,"R$ 850,00","R$ 280,00","R$ 145,00",-21.759859,-43.3467271
+422,Juiz de Fora - MG,Centro,Apartamento,60,2,1,1,"R$ 950,00","R$ 224,00","R$ 109,00",-21.759859,-43.3467271
+423,Juiz de Fora - MG,Centro,Sala,140,3,3,1,"R$ 2.200,00","R$ 879,50","R$ 350,00",-21.759859,-43.3467271
+424,Juiz de Fora - MG,Paineiras,Apartamento,80,2,3,2,"R$ 1.900,00","R$ 725,00","R$ 264,69",-21.7657334,-43.3551152
+425,Juiz de Fora - MG,Centro,Loja,300,0,2,1,"R$ 13.500,00","R$ 0,00","R$ 1.028,30",-21.759859,-43.3467271
+426,Juiz de Fora - MG,São Mateus,Casa,247,5,4,4,"R$ 4.200,00","R$ 0,00","R$ 401,00",-21.7735943,-43.3546617
+427,Juiz de Fora - MG,São Mateus,Loja,85,2,1,1,"R$ 1.500,00","R$ 200,00","R$ 140,50",-21.7735943,-43.3546617
+428,Juiz de Fora - MG,São Mateus,Loja,70,2,1,1,"R$ 1.000,00","R$ 166,00","R$ 75,00",-21.7735943,-43.3546617
+429,Juiz de Fora - MG,São Mateus,Loja,85,2,1,1,"R$ 750,00","R$ 160,00","R$ 20,00",-21.7735943,-43.3546617
+430,Juiz de Fora - MG,São Mateus,Loja,40,1,1,1,"R$ 2.300,00","R$ 400,00","R$ 137,82",-21.7735943,-43.3546617
+431,Juiz de Fora - MG,Morro da Glória,Apartamento,40,0,1,1,"R$ 900,00","R$ 292,81","R$ 120,00",-21.7491916,-43.354837
+432,Juiz de Fora - MG,São Mateus,Apartamento,31,1,1,0,"R$ 1.200,00","R$ 190,00","R$ 0,00",-21.7735943,-43.3546617
+433,Juiz de Fora - MG,Alto dos Passos,Apartamento,81,3,2,1,"R$ 1.550,00","R$ 0,00","R$ 0,00",-21.7762548,-43.3474599
+434,Juiz de Fora - MG,Jardim do Sol,Apartamento,56,0,0,0,"R$ 950,00","R$ 340,00","R$ 123,21",-21.7610522,-43.3273824
+435,Juiz de Fora - MG,Centro,Loja,65,1,1,1,"R$ 1.200,00","R$ 290,00","R$ 91,00",-21.759859,-43.3467271
+436,Juiz de Fora - MG,Benfica,Loja,107,0,2,0,"R$ 6.000,00","R$ 0,00","R$ 567,55",-21.6902673,-43.4361424
+437,Juiz de Fora - MG,Poço Rico,GalpÃ£o,90,4,2,0,"R$ 2.100,00","R$ 0,00","R$ 130,00",-21.763706,-43.3392047
+438,Juiz de Fora - MG,Santa Terezinha,GalpÃ£o,80,0,2,0,"R$ 5.990,00","R$ 0,00","R$ 490,00",-21.7417094,-43.3605186
+439,Juiz de Fora - MG,Centro,Apartamento,55,0,1,0,"R$ 2.990,00","R$ 0,00","R$ 930,00",-21.759859,-43.3467271
+440,Juiz de Fora - MG,Centro,Apartamento,60,0,1,0,"R$ 2.590,00","R$ 0,00","R$ 540,00",-21.759859,-43.3467271
+441,Juiz de Fora - MG,São Mateus,Apartamento,55,0,1,0,"R$ 2.300,00","R$ 0,00","R$ 0,00",-21.7735943,-43.3546617
+442,Juiz de Fora - MG,Parque Independencia,Apartamento,45,1,1,0,"R$ 750,00","R$ 215,00","R$ 72,00",-21.686268,-43.3552042
+443,Juiz de Fora - MG,Centro,Sala,80,2,2,1,"R$ 1.100,00","R$ 354,00","R$ 238,00",-21.759859,-43.3467271
+444,Juiz de Fora - MG,Poço Rico,Loja,75,2,2,1,"R$ 980,00","R$ 220,55","R$ 78,20",-21.763706,-43.3392047
+445,Juiz de Fora - MG,Bandeirantes,Apartamento,0,1,1,0,"R$ 400,00","R$ 155,00","R$ 0,00",-21.7215787,-43.3541886
+446,Juiz de Fora - MG,Bairu,Apartamento,38,0,1,0,"R$ 1.400,00","R$ 0,00","R$ 135,80",-21.7375744,-43.3506203
+447,Juiz de Fora - MG,Centro,Casa,300,0,4,0,"R$ 7.500,00","R$ 0,00","R$ 232,60",-21.759859,-43.3467271
+448,Juiz de Fora - MG,Santa Terezinha,Apartamento,140,0,1,0,"R$ 1.800,00","R$ 0,00","R$ 164,87",-21.7417094,-43.3605186
+449,Juiz de Fora - MG,Centro,Apartamento,"2,000",0,10,5,"R$ 23.000,00","R$ 0,01","R$ 450,00",-21.759859,-43.3467271
+450,Juiz de Fora - MG,Marilândia,Apartamento,130,3,3,1,"R$ 1.200,00","R$ 500,00","R$ 292,11",-21.7871711,-43.3907351
+451,Juiz de Fora - MG,Cruzeiro do Sul,Apartamento,65,2,2,0,"R$ 900,00","R$ 440,00","R$ 90,86",-21.7879975,-43.341993
+452,Juiz de Fora - MG,Centro,Loja,90,3,2,1,"R$ 1.200,00","R$ 209,56","R$ 133,73",-21.759859,-43.3467271
+453,Juiz de Fora - MG,Milho Branco,Sobrado,0,2,1,1,"R$ 650,00","R$ 0,00","R$ 180,00",-21.742265,-43.4061207
+454,Juiz de Fora - MG,Centro,Sala,33,0,1,0,"R$ 1.000,00","R$ 339,00","R$ 83,00",-21.759859,-43.3467271
+455,Juiz de Fora - MG,Centro,Apartamento,800,0,0,10,"R$ 9.000,00","R$ 0,00","R$ 796,00",-21.759859,-43.3467271
+456,Juiz de Fora - MG,Bonfim,Terreno,44,2,2,1,"R$ 1.000,00","R$ 250,00","R$ 0,00",-21.738407,-43.3447405
+457,Juiz de Fora - MG,Floresta,Casa,89,2,1,1,"R$ 780,00","R$ 150,00","R$ 60,77",-21.7512216,-43.2763281
+458,Juiz de Fora - MG,Bairu,Apartamento,70,2,2,0,"R$ 1.100,00","R$ 0,00","R$ 25,00",-21.7375744,-43.3506203
+459,Juiz de Fora - MG,São Mateus,Apartamento,75,2,1,0,"R$ 950,00","R$ 100,00","R$ 100,00",-21.7735943,-43.3546617
+460,Juiz de Fora - MG,Grama,Apartamento,45,1,1,0,"R$ 500,00","R$ 350,00","R$ 120,00",-21.6957214,-43.3521846
+461,Juiz de Fora - MG,Centro,Apartamento,53,2,1,1,"R$ 600,00","R$ 149,00","R$ 62,70",-21.759859,-43.3467271
+462,Juiz de Fora - MG,Centro,Apartamento,0,3,1,0,"R$ 1.400,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+463,Juiz de Fora - MG,Bandeirantes,Apartamento,26,0,1,0,"R$ 450,00","R$ 200,00","R$ 50,00",-21.7215787,-43.3541886
+464,Juiz de Fora - MG,Fábrica,Loja,70,2,1,0,"R$ 500,00","R$ 0,00","R$ 0,00",-21.7443938,-43.3709832
+465,Juiz de Fora - MG,Centro,Apartamento,30,0,0,0,"R$ 400,00","R$ 340,00","R$ 0,00",-21.759859,-43.3467271
+466,Juiz de Fora - MG,Alto dos Passos,Sala,0,3,2,0,"R$ 1.600,00","R$ 0,00","R$ 0,00",-21.7762548,-43.3474599
+467,Juiz de Fora - MG,Centro,Sala,65,2,1,0,"R$ 700,00","R$ 315,00","R$ 130,00",-21.759859,-43.3467271
+468,Juiz de Fora - MG,Democrata,SalÃ£o,0,0,0,0,"R$ 1.100,00","R$ 0,00","R$ 58,21",-21.7496425,-43.3686212
+469,Juiz de Fora - MG,Aeroporto,Apartamento,150,3,0,0,"R$ 3.500,00","R$ 200,00","R$ 354,51",-21.785598,-43.3823725
+470,Juiz de Fora - MG,Santa Helena,Apartamento,89,3,2,1,"R$ 1.200,00","R$ 290,00","R$ 82,72",-21.7575053,-43.3561412
+471,Juiz de Fora - MG,Passos,Apartamento,70,2,1,1,"R$ 800,00","R$ 300,00","R$ 101,15",-21.7762548,-43.3474599
+472,Juiz de Fora - MG,Centro,Kitnet,50,2,1,1,"R$ 850,00","R$ 167,00","R$ 0,00",-21.759859,-43.3467271
+473,Juiz de Fora - MG,Jardim de Ala,Apartamento,49,1,1,0,"R$ 850,00","R$ 0,00","R$ 35,00",-21.7922414,-43.3473574
+474,Juiz de Fora - MG,São Mateus,Apartamento,40,1,1,0,"R$ 680,00","R$ 291,87","R$ 57,67",-21.7735943,-43.3546617
+475,Juiz de Fora - MG,Manoel Honorio,Apartamento,54,2,1,1,"R$ 700,00","R$ 235,00","R$ 0,00",-21.7435044,-43.3537058
+476,Juiz de Fora - MG,Centro,Apartamento,160,0,1,0,"R$ 2.000,00","R$ 0,00","R$ 200,00",-21.759859,-43.3467271
+477,Juiz de Fora - MG,Passos,SalÃ£o,69,2,1,1,"R$ 1.150,00","R$ 190,00","R$ 98,00",-21.7762548,-43.3474599
+478,Juiz de Fora - MG,São Mateus,Loja,45,1,1,0,"R$ 700,00","R$ 176,00","R$ 106,40",-21.7735943,-43.3546617
+479,Juiz de Fora - MG,Cascatinha,Loja,41,0,1,0,"R$ 650,00","R$ 409,00","R$ 130,00",-21.783859,-43.3630935
+480,Juiz de Fora - MG,São Mateus,Apartamento,242,0,0,0,"R$ 2.500,00","R$ 0,00","R$ 220,00",-21.7735943,-43.3546617
+481,Juiz de Fora - MG,Bandeirantes,Apartamento,60,2,2,1,"R$ 750,00","R$ 150,00","R$ 30,00",-21.7215787,-43.3541886
+482,Juiz de Fora - MG,São Mateus,Apartamento,68,2,1,1,"R$ 700,00","R$ 150,00","R$ 103,25",-21.7735943,-43.3546617
+483,Juiz de Fora - MG,Centro,Apartamento,0,2,1,1,"R$ 1.000,00","R$ 307,15","R$ 135,00",-21.759859,-43.3467271
+484,Juiz de Fora - MG,Centro,Apartamento,30,1,1,0,"R$ 650,00","R$ 240,00","R$ 84,78",-21.759859,-43.3467271
+485,Juiz de Fora - MG,Centro,Apartamento,0,2,1,1,"R$ 500,00","R$ 130,00","R$ 0,00",-21.759859,-43.3467271
+486,Juiz de Fora - MG,Francisco Bernardino,Apartamento,0,1,1,0,"R$ 550,00","R$ 250,00","R$ 65,00",-21.73497,-43.3982458
+487,Juiz de Fora - MG,Passos,Apartamento,71,2,2,0,"R$ 750,00","R$ 0,00","R$ 114,00",-21.7762548,-43.3474599
+488,Juiz de Fora - MG,Poço Rico,Sala,129,3,2,1,"R$ 1.600,00","R$ 250,00","R$ 312,41",-21.763706,-43.3392047
+489,Juiz de Fora - MG,Centro,Apartamento,70,0,1,0,"R$ 2.500,00","R$ 150,00","R$ 190,00",-21.759859,-43.3467271
+490,Juiz de Fora - MG,Bom Clima,Loja,75,2,1,0,"R$ 1.000,00","R$ 140,00","R$ 90,00",-21.7277581,-43.3600894
+491,Juiz de Fora - MG,Alto dos Passos,Apartamento,60,0,1,0,"R$ 950,00","R$ 222,62","R$ 183,97",-21.7762548,-43.3474599
+492,Juiz de Fora - MG,Paineiras,Apartamento,31,0,1,0,"R$ 800,00","R$ 0,00","R$ 63,71",-21.7657334,-43.3551152
+493,Juiz de Fora - MG,São Mateus,Apartamento,78,2,1,1,"R$ 1.000,00","R$ 300,00","R$ 132,04",-21.7735943,-43.3546617
+494,Juiz de Fora - MG,São Mateus,Apartamento,75,2,1,0,"R$ 1.000,00","R$ 149,00","R$ 86,00",-21.7735943,-43.3546617
+495,Juiz de Fora - MG,Paineiras,Apartamento,78,3,1,1,"R$ 800,00","R$ 205,00","R$ 63,58",-21.7657334,-43.3551152
+496,Juiz de Fora - MG,Parque Jardim da Serra,Casa,80,2,2,2,"R$ 2.000,00","R$ 473,92","R$ 0,00",-21.79245575,-43.36744564
+497,Juiz de Fora - MG,Centro,Kitnet,70,1,1,1,"R$ 1.250,00","R$ 220,00","R$ 150,00",-21.759859,-43.3467271
+498,Juiz de Fora - MG,São Pedro,Loja,70,1,1,1,"R$ 1.250,00","R$ 220,00","R$ 150,00",-21.7708213,-43.3879244
+499,Juiz de Fora - MG,São Mateus,Apartamento,0,3,1,1,"R$ 1.350,00","R$ 320,00","R$ 141,42",-21.7735943,-43.3546617
+500,Juiz de Fora - MG,Bom Pastor,Apartamento,60,2,1,0,"R$ 700,00","R$ 50,00","R$ 66,00",-21.7768003,-43.3433149
+501,Juiz de Fora - MG,Centro,Sala,65,2,1,0,"R$ 800,00","R$ 197,99","R$ 144,11",-21.759859,-43.3467271
+502,Juiz de Fora - MG,Centro,Sala,95,0,1,0,"R$ 1.800,00","R$ 0,00","R$ 138,00",-21.759859,-43.3467271
+503,Juiz de Fora - MG,Cascatinha,Apartamento,92,4,1,0,"R$ 1.400,00","R$ 220,00","R$ 150,00",-21.783859,-43.3630935
+504,Juiz de Fora - MG,Cascatinha,Apartamento,29,0,0,0,"R$ 850,00","R$ 210,00","R$ 55,00",-21.783859,-43.3630935
+505,Juiz de Fora - MG,Grama,Apartamento,106,2,2,1,"R$ 1.000,00","R$ 600,00","R$ 144,83",-21.6957214,-43.3521846
+506,Juiz de Fora - MG,Poço Rico,Apartamento,65,2,1,0,"R$ 1.300,00","R$ 180,00","R$ 120,00",-21.763706,-43.3392047
+507,Juiz de Fora - MG,Centro,Apartamento,90,2,1,0,"R$ 1.100,00","R$ 250,00","R$ 140,00",-21.759859,-43.3467271
+508,Juiz de Fora - MG,Santa Rita,Casa,40,1,1,0,"R$ 900,00","R$ 140,00","R$ 80,00",-21.7357018,-43.3416431
+509,Juiz de Fora - MG,Passos,Apartamento,46,1,1,0,"R$ 500,00","R$ 158,00","R$ 79,15",-21.7762548,-43.3474599
+510,Juiz de Fora - MG,Eldorado,Apartamento,300,3,3,0,"R$ 3.700,00","R$ 0,00","R$ 180,00",-21.7309452,-43.3642609
+511,Juiz de Fora - MG,Aeroporto,GalpÃ£o,30,1,1,0,"R$ 800,00","R$ 270,00","R$ 107,70",-21.785598,-43.3823725
+512,Juiz de Fora - MG,Boa Vista,Apartamento,53,0,1,0,"R$ 3.800,00","R$ 236,00","R$ 129,11",-21.7814426,-43.3431172
+513,Juiz de Fora - MG,São Mateus,Loja,120,3,3,1,"R$ 2.300,00","R$ 400,00","R$ 0,00",-21.7735943,-43.3546617
+514,Juiz de Fora - MG,Centro,Sala,60,2,1,0,"R$ 800,00","R$ 346,50","R$ 166,53",-21.759859,-43.3467271
+515,Juiz de Fora - MG,Paineiras,Loja,35,0,1,0,"R$ 1.000,00","R$ 400,00","R$ 110,00",-21.7657334,-43.3551152
+516,Juiz de Fora - MG,Centro,Studio,35,0,1,0,"R$ 1.000,00","R$ 400,00","R$ 100,00",-21.759859,-43.3467271
+517,Juiz de Fora - MG,Centro,Studio,65,2,1,1,"R$ 850,00","R$ 156,11","R$ 110,40",-21.759859,-43.3467271
+518,Juiz de Fora - MG,Centro,Apartamento,51,2,1,1,"R$ 1.100,00","R$ 182,00","R$ 80,35",-21.759859,-43.3467271
+519,Juiz de Fora - MG,Centro,Studio,78,2,1,1,"R$ 650,00","R$ 180,00","R$ 0,00",-21.759859,-43.3467271
+520,Juiz de Fora - MG,Centro,Studio,61,2,1,0,"R$ 900,00","R$ 120,00","R$ 0,00",-21.759859,-43.3467271
+521,Juiz de Fora - MG,Centro,Studio,60,2,1,0,"R$ 850,00","R$ 140,00","R$ 55,00",-21.759859,-43.3467271
+522,Juiz de Fora - MG,Centro,Studio,170,3,3,1,"R$ 1.100,00","R$ 0,00","R$ 210,00",-21.759859,-43.3467271
+523,Juiz de Fora - MG,Centro,Apartamento,91,2,3,1,"R$ 1.100,00","R$ 465,00","R$ 164,00",-21.759859,-43.3467271
+524,Juiz de Fora - MG,Centro,Studio,66,2,1,1,"R$ 800,00","R$ 208,00","R$ 78,00",-21.759859,-43.3467271
+525,Juiz de Fora - MG,Centro,Studio,400,0,3,2,"R$ 10.000,00","R$ 0,00","R$ 200,00",-21.759859,-43.3467271
+526,Juiz de Fora - MG,Bandeirantes,Apartamento,40,1,1,1,"R$ 830,00","R$ 392,74","R$ 185,16",-21.7215787,-43.3541886
+527,Juiz de Fora - MG,Centro,Apartamento,42,0,1,0,"R$ 950,00","R$ 197,52","R$ 162,61",-21.759859,-43.3467271
+528,Juiz de Fora - MG,Jardim Glória,Apartamento,35,0,1,0,"R$ 900,00","R$ 509,90","R$ 82,56",-21.7530822,-43.3579528
+529,Juiz de Fora - MG,Bom Pastor,Casa,23,0,1,0,"R$ 1.400,00","R$ 105,39","R$ 85,98",-21.7768003,-43.3433149
+530,Juiz de Fora - MG,Centro,Sala,34,1,1,1,"R$ 1.300,00","R$ 200,00","R$ 120,00",-21.759859,-43.3467271
+531,Juiz de Fora - MG,Centro,Apartamento,30,0,1,0,"R$ 1.100,00","R$ 200,00","R$ 120,00",-21.759859,-43.3467271
+532,Juiz de Fora - MG,Centro,Apartamento,50,1,1,1,"R$ 1.100,00","R$ 392,39","R$ 165,00",-21.759859,-43.3467271
+533,Juiz de Fora - MG,Paineiras,Loja,30,0,1,0,"R$ 1.100,00","R$ 200,00","R$ 120,00",-21.7657334,-43.3551152
+534,Juiz de Fora - MG,Centro,Apartamento,30,0,1,0,"R$ 1.100,00","R$ 200,00","R$ 120,00",-21.759859,-43.3467271
+535,Juiz de Fora - MG,Centro,Apartamento,30,0,1,0,"R$ 1.100,00","R$ 200,00","R$ 120,00",-21.759859,-43.3467271
+536,Juiz de Fora - MG,São Mateus,Loja,30,0,1,0,"R$ 1.100,00","R$ 200,00","R$ 120,00",-21.7735943,-43.3546617
+537,Juiz de Fora - MG,Estrela Sul,Sala,44,1,1,0,"R$ 1.200,00","R$ 323,00","R$ 96,11",-21.7853626,-43.3546328
+538,Juiz de Fora - MG,Bom Pastor,Casa,30,0,0,0,"R$ 1.100,00","R$ 200,00","R$ 120,00",-21.7768003,-43.3433149
+539,Juiz de Fora - MG,Bom Clima,Loja,30,0,1,0,"R$ 1.100,00","R$ 200,00","R$ 120,00",-21.7277581,-43.3600894
+540,Juiz de Fora - MG,São Mateus,Loja,53,2,1,1,"R$ 600,00","R$ 178,00","R$ 44,88",-21.7735943,-43.3546617
+541,Juiz de Fora - MG,São Mateus,Apartamento,110,3,2,0,"R$ 1.500,00","R$ 200,00","R$ 260,18",-21.7735943,-43.3546617
+542,Juiz de Fora - MG,São Mateus,Loja,85,3,2,1,"R$ 1.500,00","R$ 175,00","R$ 125,86",-21.7735943,-43.3546617
+543,Juiz de Fora - MG,São Mateus,Loja,135,3,3,6,"R$ 5.500,00","R$ 0,00","R$ 968,32",-21.7735943,-43.3546617
+544,Juiz de Fora - MG,Centro,Apartamento,50,0,1,0,"R$ 800,00","R$ 350,00","R$ 105,55",-21.759859,-43.3467271
+545,Juiz de Fora - MG,Centro,Studio,60,2,1,0,"R$ 850,00","R$ 140,00","R$ 55,00",-21.759859,-43.3467271
+546,Juiz de Fora - MG,Centro,Apartamento,60,2,1,0,"R$ 850,00","R$ 140,00","R$ 55,00",-21.759859,-43.3467271
+547,Juiz de Fora - MG,Centro,Studio,50,0,1,0,"R$ 1.800,00","R$ 230,40","R$ 90,76",-21.759859,-43.3467271
+548,Juiz de Fora - MG,São Mateus,Apartamento,85,2,2,1,"R$ 780,00","R$ 380,00","R$ 114,56",-21.7735943,-43.3546617
+549,Juiz de Fora - MG,Centro,Kitnet,90,3,1,0,"R$ 950,00","R$ 130,00","R$ 170,00",-21.759859,-43.3467271
+550,Juiz de Fora - MG,Centro,Sala,100,0,2,0,"R$ 1.600,00","R$ 0,00","R$ 170,00",-21.759859,-43.3467271
+551,Juiz de Fora - MG,Centro,Kitnet,150,0,2,0,"R$ 4.500,00","R$ 320,00","R$ 228,00",-21.759859,-43.3467271
+552,Juiz de Fora - MG,Progresso,Apartamento,100,4,2,6,"R$ 11.000,00","R$ 0,00","R$ 754,14",-21.730895,-43.3464281
+553,Juiz de Fora - MG,Centro,Apartamento,64,0,1,0,"R$ 1.950,00","R$ 420,00","R$ 117,00",-21.759859,-43.3467271
+554,Juiz de Fora - MG,Santa Catarina,Apartamento,32,0,1,0,"R$ 990,00","R$ 0,00","R$ 116,61",-21.7508782,-43.3592871
+555,Juiz de Fora - MG,Centro,Apartamento,0,2,1,0,"R$ 900,00","R$ 40,00","R$ 0,00",-21.759859,-43.3467271
+556,Juiz de Fora - MG,Centro,Kitnet,38,0,1,0,"R$ 990,00","R$ 0,00","R$ 133,06",-21.759859,-43.3467271
+557,Juiz de Fora - MG,Centro,Apartamento,43,0,1,0,"R$ 990,00","R$ 0,00","R$ 143,44",-21.759859,-43.3467271
+558,Juiz de Fora - MG,Vivendas da Serra,Apartamento,33,1,1,1,"R$ 2.000,00","R$ 0,00","R$ 100,00",-21.5597061,-43.0112788
+559,Juiz de Fora - MG,Paineiras,Loja,31,1,1,0,"R$ 1.100,00","R$ 138,00","R$ 0,00",-21.7657334,-43.3551152
+560,Juiz de Fora - MG,São Bernardo,Casa,33,1,1,1,"R$ 2.000,00","R$ 0,00","R$ 100,00",-21.7579231,-43.3389944
+561,Juiz de Fora - MG,Jardim de Ala,Casa,31,1,1,0,"R$ 1.100,00","R$ 138,00","R$ 0,00",-21.7922414,-43.3473574
+562,Juiz de Fora - MG,Centro,Apartamento,58,1,1,0,"R$ 800,00","R$ 400,00","R$ 95,00",-21.759859,-43.3467271
+563,Juiz de Fora - MG,Centro,Sala,36,1,1,0,"R$ 350,00","R$ 330,00","R$ 49,00",-21.759859,-43.3467271
+564,Juiz de Fora - MG,Centro,Apartamento,27,0,0,0,"R$ 800,00","R$ 240,00","R$ 75,47",-21.759859,-43.3467271
+565,Juiz de Fora - MG,Centro,Loja,47,1,1,0,"R$ 350,00","R$ 330,00","R$ 53,00",-21.759859,-43.3467271
+566,Juiz de Fora - MG,Paineiras,Apartamento,125,3,2,1,"R$ 1.150,00","R$ 0,00","R$ 139,00",-21.7657334,-43.3551152
+567,Juiz de Fora - MG,Centro,Apartamento,89,2,3,1,"R$ 1.300,00","R$ 250,00","R$ 158,27",-21.759859,-43.3467271
+568,Juiz de Fora - MG,Bairu,Loja,"1,200",0,12,1,"R$ 4.500,00","R$ 1.025,00","R$ 0,00",-21.7375744,-43.3506203
+569,Juiz de Fora - MG,Centro,Apartamento,80,2,2,1,"R$ 900,00","R$ 250,00","R$ 135,37",-21.759859,-43.3467271
+570,Juiz de Fora - MG,Costa Carvalho,Ãrea,90,2,1,0,"R$ 950,00","R$ 135,00","R$ 55,00",-21.763468,-43.3319785
+571,Juiz de Fora - MG,Manoel Honorio,Apartamento,36,1,1,0,"R$ 700,00","R$ 305,00","R$ 150,00",-21.7435044,-43.3537058
+572,Juiz de Fora - MG,Bandeirantes,Apartamento,90,2,1,0,"R$ 990,00","R$ 135,00","R$ 55,00",-21.7215787,-43.3541886
+573,Juiz de Fora - MG,Santa Helena,Apartamento,60,2,1,1,"R$ 1.200,00","R$ 0,00","R$ 0,00",-21.7575053,-43.3561412
+574,Juiz de Fora - MG,Santa Helena,Apartamento,85,0,1,0,"R$ 1.600,00","R$ 66,00","R$ 150,00",-21.7575053,-43.3561412
+575,Juiz de Fora - MG,Centro,Apartamento,0,3,1,0,"R$ 550,00","R$ 0,00","R$ 10,14",-21.759859,-43.3467271
+576,Juiz de Fora - MG,Grama,Apartamento,0,3,1,0,"R$ 1.200,00","R$ 0,00","R$ 0,00",-21.6957214,-43.3521846
+577,Juiz de Fora - MG,Nossa Senhora Aparecida,Apartamento,50,2,1,0,"R$ 950,00","R$ 189,00","R$ 150,00",-21.7465479,-43.3473422
+578,Juiz de Fora - MG,Granbery,Apartamento,0,0,1,0,"R$ 1.000,00","R$ 340,00","R$ 84,00",-21.7675479,-43.3437945
+579,Juiz de Fora - MG,Centro,Sala,41,1,1,0,"R$ 650,00","R$ 170,00","R$ 51,96",-21.759859,-43.3467271
+580,Juiz de Fora - MG,São Mateus,Loja,50,0,1,0,"R$ 5.990,00","R$ 490,00","R$ 42,50",-21.7735943,-43.3546617
+581,Juiz de Fora - MG,Paineiras,Apartamento,32,0,1,0,"R$ 4.990,00","R$ 0,00","R$ 470,00",-21.7657334,-43.3551152
+582,Juiz de Fora - MG,Parque Independencia,Casa,45,2,1,1,"R$ 1.000,00","R$ 202,16","R$ 0,00",-21.686268,-43.3552042
+583,Juiz de Fora - MG,Santa Helena,Apartamento,60,2,1,0,"R$ 700,00","R$ 0,01","R$ 163,72",-21.7575053,-43.3561412
+584,Juiz de Fora - MG,São Mateus,Apartamento,50,0,1,0,"R$ 850,00","R$ 0,00","R$ 0,00",-21.7735943,-43.3546617
+585,Juiz de Fora - MG,São Mateus,Apartamento,0,1,1,0,"R$ 700,00","R$ 40,00","R$ 0,00",-21.7735943,-43.3546617
+586,Juiz de Fora - MG,Boa Vista,Apartamento,0,0,0,0,"R$ 3.500,00","R$ 0,00","R$ 342,09",-21.7814426,-43.3431172
+587,Juiz de Fora - MG,Santa Helena,Apartamento,87,2,3,1,"R$ 900,00","R$ 330,00","R$ 85,51",-21.7575053,-43.3561412
+588,Juiz de Fora - MG,São Mateus,Kitnet,67,2,1,1,"R$ 700,00","R$ 190,00","R$ 44,90",-21.7735943,-43.3546617
+589,Juiz de Fora - MG,Bom Pastor,Kitnet,65,2,2,1,"R$ 1.100,00","R$ 120,00","R$ 100,00",-21.7768003,-43.3433149
+590,Juiz de Fora - MG,Bom Jardim,Apartamento,65,2,2,1,"R$ 1.100,00","R$ 120,00","R$ 100,00",-21.734464,-43.3354923
+591,Juiz de Fora - MG,Bom Jardim,Apartamento,45,1,1,1,"R$ 750,00","R$ 280,00",$78,-21.734464,-43.3354923
+592,Juiz de Fora - MG,Bom Jardim,Apartamento,35,1,1,0,"R$ 600,00","R$ 280,00","R$ 92,12",-21.734464,-43.3354923
+593,Juiz de Fora - MG,Bom Pastor,Apartamento,60,2,2,2,"R$ 1.500,00","R$ 466,00","R$ 190,00",-21.7768003,-43.3433149
+594,Juiz de Fora - MG,Centro,Loja,0,2,1,0,"R$ 600,00","R$ 146,72","R$ 0,00",-21.759859,-43.3467271
+595,Juiz de Fora - MG,Fontesville,Apartamento,0,1,0,0,"R$ 590,00","R$ 0,00","R$ 63,73",-21.7369233,-43.4102621
+596,Juiz de Fora - MG,Mundo Novo,Apartamento,127,2,2,1,"R$ 1.050,00","R$ 180,00","R$ 170,10",-21.7783002,-43.351185
+597,Juiz de Fora - MG,Centro,Kitnet,50,0,1,0,"R$ 850,00","R$ 350,00","R$ 110,52",-21.759859,-43.3467271
+598,Juiz de Fora - MG,Santa Terezinha,Apartamento,54,0,3,0,"R$ 2.500,00","R$ 0,00","R$ 257,85",-21.7417094,-43.3605186
+599,Juiz de Fora - MG,Centro,Sala,1,2,1,0,"R$ 800,00","R$ 140,00","R$ 77,04",-21.759859,-43.3467271
+600,Juiz de Fora - MG,Santa Helena,Apartamento,120,2,2,0,"R$ 1.100,00","R$ 0,00","R$ 1.140,00",-21.7575053,-43.3561412
+601,Juiz de Fora - MG,Centro,Apartamento,68,2,1,1,"R$ 1.100,00","R$ 165,00","R$ 102,30",-21.759859,-43.3467271
+602,Juiz de Fora - MG,Centro,Apartamento,156,3,3,1,"R$ 1.900,00","R$ 700,00","R$ 190,26",-21.759859,-43.3467271
+603,Juiz de Fora - MG,São Pedro,Terreno,58,1,1,0,"R$ 900,00","R$ 380,00","R$ 92,26",-21.7708213,-43.3879244
+604,Juiz de Fora - MG,Progresso,Casa,116,3,2,1,"R$ 1.700,00","R$ 268,00","R$ 217,49",-21.730895,-43.3464281
+605,Juiz de Fora - MG,Parque Independencia,Apartamento,0,3,3,1,"R$ 1.600,00","R$ 330,00","R$ 220,00",-21.686268,-43.3552042
+606,Juiz de Fora - MG,Centro,Apartamento,32,1,1,0,"R$ 590,00","R$ 250,00","R$ 70,00",-21.759859,-43.3467271
+607,Juiz de Fora - MG,Centro,Loja,30,1,1,0,"R$ 500,00","R$ 210,00","R$ 70,00",-21.759859,-43.3467271
+608,Juiz de Fora - MG,Centro,Loja,40,2,1,0,"R$ 500,00","R$ 100,00","R$ 27,42",-21.759859,-43.3467271
+609,Juiz de Fora - MG,Benfica,Loja,40,2,1,0,"R$ 500,00","R$ 100,00","R$ 38,40",-21.6902673,-43.4361424
+610,Juiz de Fora - MG,Bandeirantes,Apartamento,47,2,1,0,"R$ 550,00","R$ 100,00","R$ 40,18",-21.7215787,-43.3541886
+611,Juiz de Fora - MG,Cascatinha,Loja,120,3,2,2,"R$ 1.900,00","R$ 550,00","R$ 204,48",-21.783859,-43.3630935
+612,Juiz de Fora - MG,Centro,Apartamento,0,0,1,0,"R$ 8.000,00","R$ 0,00","R$ 573,04",-21.759859,-43.3467271
+613,Juiz de Fora - MG,Centro,Loja,76,2,1,1,"R$ 800,00","R$ 70,00","R$ 0,00",-21.759859,-43.3467271
+614,Juiz de Fora - MG,Costa Carvalho,Apartamento,127,2,1,1,"R$ 1.100,00","R$ 240,00","R$ 84,66",-21.763468,-43.3319785
+615,Juiz de Fora - MG,Jardim Glória,Apartamento,1,1,1,0,"R$ 550,00","R$ 285,00","R$ 103,00",-21.7530822,-43.3579528
+616,Juiz de Fora - MG,Bandeirantes,Apartamento,50,2,1,1,"R$ 800,00","R$ 265,00","R$ 72,16",-21.7215787,-43.3541886
+617,Juiz de Fora - MG,Santa Helena,Apartamento,24,0,1,0,"R$ 700,00","R$ 70,00","R$ 53,64",-21.7575053,-43.3561412
+618,Juiz de Fora - MG,São Mateus,Apartamento,85,3,1,1,"R$ 1.600,00","R$ 100,00","R$ 250,00",-21.7735943,-43.3546617
+619,Juiz de Fora - MG,Centro,Apartamento,60,2,1,0,"R$ 850,00","R$ 140,00","R$ 55,00",-21.759859,-43.3467271
+620,Juiz de Fora - MG,Democrata,Apartamento,40,1,1,0,"R$ 400,00","R$ 464,00","R$ 114,71",-21.7496425,-43.3686212
+621,Juiz de Fora - MG,Centro,Apartamento,0,0,0,0,"R$ 5.500,00","R$ 0,00","R$ 20,00",-21.759859,-43.3467271
+622,Juiz de Fora - MG,Centro,Apartamento,0,1,1,0,"R$ 600,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+623,Juiz de Fora - MG,Poço Rico,Loja,50,2,1,0,"R$ 590,00","R$ 0,00","R$ 0,00",-21.763706,-43.3392047
+624,Juiz de Fora - MG,Alto dos Passos,Sala,45,1,1,0,"R$ 650,00","R$ 280,00","R$ 86,00",-21.7762548,-43.3474599
+625,Juiz de Fora - MG,Manoel Honorio,GalpÃ£o,61,0,1,0,"R$ 800,00","R$ 0,00","R$ 121,95",-21.7435044,-43.3537058
+626,Juiz de Fora - MG,Manoel Honorio,GalpÃ£o,139,0,2,0,"R$ 12.742,00","R$ 237,60","R$ 584,93",-21.7435044,-43.3537058
+627,Juiz de Fora - MG,São Mateus,Flat,40,0,1,0,"R$ 700,00","R$ 0,00","R$ 38,99",-21.7735943,-43.3546617
+628,Juiz de Fora - MG,Centro,Apartamento,113,2,1,1,"R$ 1.150,00","R$ 125,00","R$ 156,00",-21.759859,-43.3467271
+629,Juiz de Fora - MG,São Mateus,Apartamento,100,0,2,0,"R$ 1.700,00","R$ 0,00","R$ 250,00",-21.7735943,-43.3546617
+630,Juiz de Fora - MG,Jardim Glória,Apartamento,210,3,3,1,"R$ 4.000,00","R$ 680,00","R$ 327,40",-21.7530822,-43.3579528
+631,Juiz de Fora - MG,São Mateus,Apartamento,62,0,2,0,"R$ 2.500,00","R$ 0,00","R$ 196,18",-21.7735943,-43.3546617
+632,Juiz de Fora - MG,Centro,Apartamento,59,2,1,1,"R$ 800,00","R$ 325,00","R$ 57,00",-21.759859,-43.3467271
+633,Juiz de Fora - MG,Alto dos Passos,Apartamento,90,2,2,1,"R$ 890,00","R$ 432,49","R$ 138,00",-21.7762548,-43.3474599
+634,Juiz de Fora - MG,Jardim Glória,Apartamento,54,2,1,1,"R$ 650,00","R$ 250,00","R$ 63,54",-21.7530822,-43.3579528
+635,Juiz de Fora - MG,São Mateus,Apartamento,85,3,2,1,"R$ 1.300,00","R$ 230,00","R$ 161,69",-21.7735943,-43.3546617
+636,Juiz de Fora - MG,São Mateus,Apartamento,72,3,1,1,"R$ 1.250,00","R$ 209,00","R$ 89,20",-21.7735943,-43.3546617
+637,Juiz de Fora - MG,Centro,Apartamento,120,3,3,0,"R$ 2.700,00","R$ 1.110,00","R$ 301,80",-21.759859,-43.3467271
+638,Juiz de Fora - MG,Paineiras,Apartamento,65,2,1,1,"R$ 850,00","R$ 220,00","R$ 78,82",-21.7657334,-43.3551152
+639,Juiz de Fora - MG,Centro,Apartamento,600,0,0,0,"R$ 10.000,00","R$ 0,00","R$ 200,00",-21.759859,-43.3467271
+640,Juiz de Fora - MG,Centro,Apartamento,118,3,2,1,"R$ 1.700,00","R$ 600,00","R$ 292,11",-21.759859,-43.3467271
+641,Juiz de Fora - MG,Cascatinha,Apartamento,33,1,1,0,"R$ 500,00","R$ 327,00","R$ 150,00",-21.783859,-43.3630935
+642,Juiz de Fora - MG,Centro,Apartamento,80,0,2,0,"R$ 1.800,00","R$ 0,00","R$ 133,00",-21.759859,-43.3467271
+643,Juiz de Fora - MG,Centro,Sala,86,0,1,2,"R$ 2.500,00","R$ 974,59","R$ 245,00",-21.759859,-43.3467271
+644,Juiz de Fora - MG,São Mateus,Flat,376,0,2,0,"R$ 8.600,00","R$ 0,00","R$ 310,00",-21.7735943,-43.3546617
+645,Juiz de Fora - MG,Centro,Loja,550,0,2,0,"R$ 3.000,00","R$ 0,00","R$ 250,00",-21.759859,-43.3467271
+646,Juiz de Fora - MG,São Mateus,Loja,0,1,1,1,"R$ 1.500,00","R$ 280,00","R$ 0,00",-21.7735943,-43.3546617
+647,Juiz de Fora - MG,Bandeirantes,Apartamento,35,1,1,0,"R$ 480,00","R$ 250,00","R$ 75,00",-21.7215787,-43.3541886
+648,Juiz de Fora - MG,Alto dos Passos,Apartamento,86,2,1,1,"R$ 890,00","R$ 200,00","R$ 129,42",-21.7762548,-43.3474599
+649,Juiz de Fora - MG,Centro,Loja,73,2,2,1,"R$ 1.200,00","R$ 425,00","R$ 119,00",-21.759859,-43.3467271
+650,Juiz de Fora - MG,Centro,Loja,77,2,1,1,"R$ 1.300,00","R$ 150,00","R$ 101,00",-21.759859,-43.3467271
+651,Juiz de Fora - MG,Centro,Sala,56,1,1,1,"R$ 650,00","R$ 468,85","R$ 128,62",-21.759859,-43.3467271
+652,Juiz de Fora - MG,Cascatinha,Apartamento,75,2,1,1,"R$ 1.100,00","R$ 250,00","R$ 77,00",-21.783859,-43.3630935
+653,Juiz de Fora - MG,Laranjeiras,Apartamento,73,2,2,1,"R$ 1.000,00","R$ 543,41","R$ 135,00",-21.7528915,-43.2762786
+654,Juiz de Fora - MG,Centro,Kitnet,95,3,2,0,"R$ 1.100,00","R$ 250,00","R$ 151,00",-21.759859,-43.3467271
+655,Juiz de Fora - MG,Granbery,Apartamento,65,2,1,1,"R$ 950,00","R$ 200,00","R$ 112,77",-21.7675479,-43.3437945
+656,Juiz de Fora - MG,Centro,Apartamento,45,1,1,0,"R$ 700,00","R$ 300,00","R$ 95,00",-21.759859,-43.3467271
+657,Juiz de Fora - MG,Ipiranga,Casa,91,2,1,1,"R$ 700,00","R$ 248,16","R$ 97,77",-21.7910828,-43.3505054
+658,Juiz de Fora - MG,Alto dos Passos,Apartamento,49,1,1,0,"R$ 700,00","R$ 340,00","R$ 117,49",-21.7762548,-43.3474599
+659,Juiz de Fora - MG,Paineiras,Sala,50,1,1,1,"R$ 1.600,00","R$ 392,39","R$ 187,12",-21.7657334,-43.3551152
+660,Juiz de Fora - MG,São Mateus,Loja,99,2,2,2,"R$ 1.300,00","R$ 240,00","R$ 150,00",-21.7735943,-43.3546617
+661,Juiz de Fora - MG,São Mateus,Loja,60,2,2,0,"R$ 1.050,00","R$ 0,00","R$ 0,00",-21.7735943,-43.3546617
+662,Juiz de Fora - MG,Paineiras,Sala,0,0,0,0,"R$ 650,00","R$ 340,00","R$ 0,00",-21.7657334,-43.3551152
+663,Juiz de Fora - MG,Paineiras,Loja,0,1,1,1,"R$ 1.500,00","R$ 200,00","R$ 0,00",-21.7657334,-43.3551152
+664,Juiz de Fora - MG,Paineiras,Loja,0,0,1,0,"R$ 800,00","R$ 100,00","R$ 112,00",-21.7657334,-43.3551152
+665,Juiz de Fora - MG,Centro,Apartamento,350,0,0,0,"R$ 8.000,00","R$ 0,00","R$ 270,00",-21.759859,-43.3467271
+666,Juiz de Fora - MG,Bairu,Apartamento,92,2,1,0,"R$ 850,00","R$ 174,00","R$ 96,19",-21.7375744,-43.3506203
+667,Juiz de Fora - MG,Parque Independencia,Casa,81,3,2,1,"R$ 1.600,00","R$ 250,00","R$ 100,00",-21.686268,-43.3552042
+668,Juiz de Fora - MG,Jardim Glória,Apartamento,19,0,1,0,"R$ 1.000,00","R$ 428,14","R$ 60,00",-21.7530822,-43.3579528
+669,Juiz de Fora - MG,Centro,Apartamento,20,0,0,0,"R$ 900,00","R$ 274,00","R$ 66,00",-21.759859,-43.3467271
+670,Juiz de Fora - MG,São Pedro,Loja,53,0,1,0,"R$ 1.200,00","R$ 0,00","R$ 143,00",-21.7708213,-43.3879244
+671,Juiz de Fora - MG,Aeroporto,Loja,72,2,1,1,"R$ 1.000,00","R$ 268,00","R$ 103,20",-21.785598,-43.3823725
+672,Juiz de Fora - MG,Centro,Apartamento,87,2,0,1,"R$ 950,00","R$ 300,00","R$ 130,00",-21.759859,-43.3467271
+673,Juiz de Fora - MG,Jardim de Ala,Apartamento,127,3,1,1,"R$ 1.100,00","R$ 0,00","R$ 142,84",-21.7922414,-43.3473574
+674,Juiz de Fora - MG,Morro da Glória,Loja,40,1,0,0,"R$ 650,00","R$ 350,00","R$ 66,62",-21.7491916,-43.354837
+675,Juiz de Fora - MG,Centro,Apartamento,73,2,1,0,"R$ 1.000,00","R$ 220,00","R$ 103,10",-21.759859,-43.3467271
+676,Juiz de Fora - MG,Granbery,Apartamento,76,2,2,0,"R$ 1.000,00","R$ 320,00","R$ 132,00",-21.7675479,-43.3437945
+677,Juiz de Fora - MG,Bom Pastor,Loja,75,1,1,0,"R$ 720,00","R$ 0,00","R$ 0,00",-21.7768003,-43.3433149
+678,Juiz de Fora - MG,São Mateus,Loja,76,1,1,1,"R$ 1.200,00","R$ 279,00","R$ 143,38",-21.7735943,-43.3546617
+679,Juiz de Fora - MG,Passos,Loja,416,0,1,0,"R$ 6.000,00","R$ 1.813,00","R$ 981,56",-21.7762548,-43.3474599
+680,Juiz de Fora - MG,Centro,GalpÃ£o,26,0,1,0,"R$ 750,00","R$ 124,04","R$ 76,68",-21.759859,-43.3467271
+681,Juiz de Fora - MG,Fontesville,Apartamento,26,0,1,0,"R$ 750,00","R$ 124,04","R$ 76,68",-21.7369233,-43.4102621
+682,Juiz de Fora - MG,Centro,Apartamento,372,0,1,0,"R$ 4.500,00","R$ 1.464,00","R$ 809,13",-21.759859,-43.3467271
+683,Juiz de Fora - MG,Centro,Apartamento,372,0,1,0,"R$ 4.500,00","R$ 1.464,00","R$ 809,13",-21.759859,-43.3467271
+684,Juiz de Fora - MG,Centro,Apartamento,416,0,1,0,"R$ 6.000,00","R$ 1.813,00","R$ 981,56",-21.759859,-43.3467271
+685,Juiz de Fora - MG,Passos,Loja,49,2,1,0,"R$ 980,00","R$ 0,00","R$ 35,00",-21.7762548,-43.3474599
+686,Juiz de Fora - MG,Centro,Loja,110,3,2,0,"R$ 1.300,00","R$ 0,00","R$ 136,77",-21.759859,-43.3467271
+687,Juiz de Fora - MG,Ipiranga,Apartamento,57,2,2,1,"R$ 1.100,00","R$ 0,00","R$ 14,00",-21.7910828,-43.3505054
+688,Juiz de Fora - MG,Alto dos Passos,Apartamento,75,2,1,0,"R$ 890,00","R$ 180,00","R$ 98,52",-21.7762548,-43.3474599
+689,Juiz de Fora - MG,Santa Helena,Apartamento,63,2,1,0,"R$ 950,00","R$ 150,00","R$ 192,16",-21.7575053,-43.3561412
+690,Juiz de Fora - MG,Centro,Apartamento,78,0,1,0,"R$ 1.900,00","R$ 0,00","R$ 100,00",-21.759859,-43.3467271
+691,Juiz de Fora - MG,Paineiras,Apartamento,70,0,1,0,"R$ 980,00","R$ 0,00","R$ 100,00",-21.7657334,-43.3551152
+692,Juiz de Fora - MG,Joquei Clube,Apartamento,226,4,1,3,"R$ 4.100,00","R$ 1.100,00","R$ 449,00",-21.7258339,-43.397439
+693,Juiz de Fora - MG,Joquei Clube,Apartamento,53,2,1,0,"R$ 450,00","R$ 80,00","R$ 0,00",-21.7258339,-43.397439
+694,Juiz de Fora - MG,Francisco Bernardino,Apartamento,690,0,2,0,"R$ 8.500,00","R$ 0,00","R$ 578,32",-21.73497,-43.3982458
+695,Juiz de Fora - MG,Santa Terezinha,Loja,42,1,1,1,"R$ 1.150,00","R$ 300,00","R$ 175,03",-21.7417094,-43.3605186
+696,Juiz de Fora - MG,Estrela Sul,Loja,78,3,1,1,"R$ 1.100,00","R$ 167,22","R$ 100,80",-21.7853626,-43.3546328
+697,Juiz de Fora - MG,Passos,Loja,50,0,0,1,"R$ 800,00","R$ 374,00","R$ 100,00",-21.7762548,-43.3474599
+698,Juiz de Fora - MG,Santa Helena,Apartamento,40,0,1,0,"R$ 1.000,00","R$ 80,00","R$ 100,00",-21.7575053,-43.3561412
+699,Juiz de Fora - MG,Bandeirantes,Apartamento,150,0,1,0,"R$ 5.900,00","R$ 0,00","R$ 350,00",-21.7215787,-43.3541886
+700,Juiz de Fora - MG,Centro,Apartamento,"1,000",0,2,0,"R$ 7.000,00","R$ 0,00","R$ 598,00",-21.759859,-43.3467271
+701,Juiz de Fora - MG,Francisco Bernardino,Apartamento,65,2,1,1,"R$ 790,00","R$ 0,00","R$ 0,00",-21.73497,-43.3982458
+702,Juiz de Fora - MG,Joquei Clube,Casa,45,1,1,0,"R$ 750,00","R$ 295,00","R$ 115,00",-21.7258339,-43.397439
+703,Juiz de Fora - MG,Paineiras,Apartamento,45,1,1,0,"R$ 750,00","R$ 295,00","R$ 115,00",-21.7657334,-43.3551152
+704,Juiz de Fora - MG,São Pedro,Apartamento,40,1,1,0,"R$ 400,00","R$ 437,00","R$ 85,00",-21.7708213,-43.3879244
+705,Juiz de Fora - MG,Paineiras,Apartamento,147,0,2,0,"R$ 8.000,00","R$ 0,00","R$ 248,40",-21.7657334,-43.3551152
+706,Juiz de Fora - MG,Manoel Honorio,Apartamento,0,0,2,0,"R$ 3.000,00","R$ 0,00","R$ 449,61",-21.7435044,-43.3537058
+707,Juiz de Fora - MG,Alto dos Passos,Apartamento,80,2,2,1,"R$ 750,00","R$ 150,00","R$ 107,00",-21.7762548,-43.3474599
+708,Juiz de Fora - MG,Paineiras,Apartamento,60,2,1,1,"R$ 650,00","R$ 250,00","R$ 144,25",-21.7657334,-43.3551152
+709,Juiz de Fora - MG,Centro,Loja,63,3,2,0,"R$ 1.000,00","R$ 220,00","R$ 115,00",-21.759859,-43.3467271
+710,Juiz de Fora - MG,Cascatinha,Apartamento,0,1,1,0,"R$ 600,00","R$ 350,00","R$ 88,79",-21.783859,-43.3630935
+711,Juiz de Fora - MG,Centro,Loja,78,3,1,2,"R$ 1.000,00","R$ 255,00","R$ 140,00",-21.759859,-43.3467271
+712,Juiz de Fora - MG,Bom Pastor,Apartamento,60,2,1,0,"R$ 750,00","R$ 80,00","R$ 0,00",-21.7768003,-43.3433149
+713,Juiz de Fora - MG,Centro,Loja,60,2,1,0,"R$ 700,00","R$ 50,00","R$ 66,00",-21.759859,-43.3467271
+714,Juiz de Fora - MG,Benfica,Loja,70,2,1,0,"R$ 690,00","R$ 50,00","R$ 66,00",-21.6902673,-43.4361424
+715,Juiz de Fora - MG,Recanto dos Lagos,Casa,30,0,2,0,"R$ 1.400,00","R$ 0,00","R$ 50,00",-21.7051597,-43.337145
+716,Juiz de Fora - MG,São Mateus,SalÃ£o,27,0,0,0,"R$ 750,00","R$ 0,00","R$ 54,00",-21.7735943,-43.3546617
+717,Juiz de Fora - MG,Bom Jardim,Apartamento,250,0,2,0,"R$ 2.500,00","R$ 0,00","R$ 280,00",-21.734464,-43.3354923
+718,Juiz de Fora - MG,Vale do Ipe,Casa,62,2,1,1,"R$ 950,00","R$ 250,00","R$ 95,00",-21.7533384,-43.3648613
+719,Juiz de Fora - MG,Centro,Apartamento,55,2,1,0,"R$ 750,00","R$ 250,00","R$ 64,00",-21.759859,-43.3467271
+720,Juiz de Fora - MG,Centro,Apartamento,50,2,1,0,"R$ 1.100,00","R$ 150,00","R$ 153,00",-21.759859,-43.3467271
+721,Juiz de Fora - MG,Progresso,GalpÃ£o,53,2,1,1,"R$ 650,00","R$ 205,00","R$ 0,00",-21.730895,-43.3464281
+722,Juiz de Fora - MG,Centro,Apartamento,160,4,2,4,"R$ 1.850,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+723,Juiz de Fora - MG,Vivendas da Serra,Apartamento,44,1,1,0,"R$ 650,00","R$ 180,00","R$ 64,00",-21.5597061,-43.0112788
+724,Juiz de Fora - MG,Centro,Loja,47,2,0,1,"R$ 900,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+725,Juiz de Fora - MG,Centro,Casa,61,2,1,1,"R$ 1.080,00","R$ 142,07","R$ 78,30",-21.759859,-43.3467271
+726,Juiz de Fora - MG,Estrela Sul,Studio,67,2,1,0,"R$ 700,00","R$ 236,00","R$ 135,00",-21.7853626,-43.3546328
+727,Juiz de Fora - MG,Teixeiras,Apartamento,85,2,1,1,"R$ 1.050,00","R$ 280,00","R$ 70,00",-21.7908663,-43.3623365
+728,Juiz de Fora - MG,Vivendas da Serra,Apartamento,60,2,1,0,"R$ 850,00","R$ 140,00","R$ 70,00",-21.5597061,-43.0112788
+729,Juiz de Fora - MG,Parque Guarani,Apartamento,18,0,1,0,"R$ 1.000,00","R$ 425,00","R$ 60,00",-21.3698876,-42.9633495
+730,Juiz de Fora - MG,Manoel Honorio,Loja,36,1,1,1,"R$ 1.100,00","R$ 100,00","R$ 0,00",-21.7435044,-43.3537058
+731,Juiz de Fora - MG,Centro,Loja,35,0,1,0,"R$ 1.000,00","R$ 200,00","R$ 150,00",-21.759859,-43.3467271
+732,Juiz de Fora - MG,Teixeiras,Loja,64,2,0,0,"R$ 950,00","R$ 0,00","R$ 132,37",-21.7908663,-43.3623365
+733,Juiz de Fora - MG,Centro,Sala,51,0,0,0,"R$ 3.200,00","R$ 14,00","R$ 150,00",-21.759859,-43.3467271
+734,Juiz de Fora - MG,São Mateus,Kitnet,80,0,0,0,"R$ 2.500,00","R$ 0,00","R$ 50,00",-21.7735943,-43.3546617
+735,Juiz de Fora - MG,Bandeirantes,Apartamento,400,5,5,12,"R$ 4.500,00","R$ 0,00","R$ 370,00",-21.7215787,-43.3541886
+736,Juiz de Fora - MG,Distrito Industrial,GalpÃ£o,80,0,1,0,"R$ 2.990,00","R$ 0,00","R$ 0,00",-21.6817745,-43.4379323
+737,Juiz de Fora - MG,Marilândia,Apartamento,100,2,2,1,"R$ 1.150,00","R$ 150,00","R$ 0,00",-21.7871711,-43.3907351
+738,Juiz de Fora - MG,São Pedro,Apartamento,270,4,2,6,"R$ 7.000,00","R$ 0,00","R$ 477,70",-21.7708213,-43.3879244
+739,Juiz de Fora - MG,Centro,Apartamento,50,1,1,0,"R$ 700,00","R$ 450,00","R$ 122,21",-21.759859,-43.3467271
+740,Juiz de Fora - MG,Santa Luzia,Apartamento,66,4,1,0,"R$ 1.300,00","R$ 273,00","R$ 188,00",-21.7868628,-43.3447472
+741,Juiz de Fora - MG,Centro,Sala,270,0,4,0,"R$ 7.400,00","R$ 1.450,00","R$ 550,00",-21.759859,-43.3467271
+742,Juiz de Fora - MG,Centro,Casa,"1,208",0,4,0,"R$ 7.000,00","R$ 0,00","R$ 1.480,00",-21.759859,-43.3467271
+743,Juiz de Fora - MG,Centro,Apartamento,70,1,1,1,"R$ 1.250,00","R$ 220,00","R$ 150,00",-21.759859,-43.3467271
+744,Juiz de Fora - MG,São Mateus,Apartamento,48,2,1,1,"R$ 600,00","R$ 222,22","R$ 39,23",-21.7735943,-43.3546617
+745,Juiz de Fora - MG,Centro,Apartamento,56,0,1,0,"R$ 2.900,00","R$ 380,00","R$ 103,25",-21.759859,-43.3467271
+746,Juiz de Fora - MG,São Mateus,Apartamento,276,9,3,4,"R$ 5.500,00","R$ 0,00","R$ 611,14",-21.7735943,-43.3546617
+747,Juiz de Fora - MG,São Mateus,Apartamento,52,1,1,1,"R$ 1.300,00","R$ 260,50","R$ 96,40",-21.7735943,-43.3546617
+748,Juiz de Fora - MG,São Pedro,Loja,40,1,1,0,"R$ 650,00","R$ 150,00","R$ 0,00",-21.7708213,-43.3879244
+749,Juiz de Fora - MG,Centro,Sala,60,2,1,1,"R$ 700,00","R$ 222,00","R$ 50,00",-21.759859,-43.3467271
+750,Juiz de Fora - MG,Benfica,Casa,60,2,1,0,"R$ 690,00","R$ 0,00","R$ 0,00",-21.6902673,-43.4361424
+751,Juiz de Fora - MG,São Pedro,Loja,70,0,1,0,"R$ 590,00","R$ 0,00","R$ 100,00",-21.7708213,-43.3879244
+752,Juiz de Fora - MG,Centro,Loja,81,0,1,0,"R$ 9.000,00","R$ 0,00","R$ 757,92",-21.759859,-43.3467271
+753,Juiz de Fora - MG,Morro da Glória,Sala,72,0,1,1,"R$ 2.800,00","R$ 0,00","R$ 0,00",-21.7491916,-43.354837
+754,Juiz de Fora - MG,Centro,Apartamento,45,0,0,0,"R$ 1.150,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+755,Juiz de Fora - MG,Paineiras,Apartamento,35,1,1,0,"R$ 500,00","R$ 260,00","R$ 70,00",-21.7657334,-43.3551152
+756,Juiz de Fora - MG,Paineiras,Apartamento,75,2,1,1,"R$ 700,00","R$ 260,00","R$ 86,16",-21.7657334,-43.3551152
+757,Juiz de Fora - MG,Paineiras,Apartamento,"10,000",0,0,0,"R$ 60.000,00","R$ 0,00","R$ 0,00",-21.7657334,-43.3551152
+758,Juiz de Fora - MG,Bonfim,Apartamento,58,2,1,1,"R$ 700,00","R$ 0,00","R$ 0,00",-21.738407,-43.3447405
+759,Juiz de Fora - MG,Centro,Loja,47,2,1,1,"R$ 650,00","R$ 155,00","R$ 39,02",-21.759859,-43.3467271
+760,Juiz de Fora - MG,Mariano Procopio,Loja,56,1,1,0,"R$ 820,00","R$ 330,00","R$ 133,00",-21.7461726,-43.3556644
+761,Juiz de Fora - MG,São Mateus,Apartamento,60,1,1,0,"R$ 750,00","R$ 0,00","R$ 48,00",-21.7735943,-43.3546617
+762,Juiz de Fora - MG,Manoel Honorio,Apartamento,35,0,1,0,"R$ 650,00","R$ 150,00","R$ 70,00",-21.7435044,-43.3537058
+763,Juiz de Fora - MG,Bairro Industrial,Apartamento,50,2,1,0,"R$ 890,00","R$ 0,00","R$ 0,00",-21.5216117,-43.0156222
+764,Juiz de Fora - MG,Santa Helena,Apartamento,41,1,1,0,"R$ 850,00","R$ 240,00","R$ 71,00",-21.7575053,-43.3561412
+765,Juiz de Fora - MG,Progresso,Apartamento,97,3,2,0,"R$ 1.000,00","R$ 250,00","R$ 164,00",-21.730895,-43.3464281
+766,Juiz de Fora - MG,Centro,Sala,46,1,1,0,"R$ 600,00","R$ 260,00","R$ 70,00",-21.759859,-43.3467271
+767,Juiz de Fora - MG,São Mateus,Loja,40,2,1,0,"R$ 1.000,00","R$ 152,00","R$ 86,00",-21.7735943,-43.3546617
+768,Juiz de Fora - MG,Centro,Sala,45,1,1,1,"R$ 650,00","R$ 300,00","R$ 172,00",-21.759859,-43.3467271
+769,Juiz de Fora - MG,Centro,Sala,60,0,1,0,"R$ 3.600,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+770,Juiz de Fora - MG,Centro,Sala,49,0,0,0,"R$ 800,00","R$ 350,00","R$ 105,00",-21.759859,-43.3467271
+771,Juiz de Fora - MG,Centro,Sala,65,2,1,1,"R$ 1.600,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+772,Juiz de Fora - MG,Centro,Sala,0,0,0,1,"R$ 400,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+773,Juiz de Fora - MG,Centro,Loja,58,2,1,0,"R$ 850,00","R$ 0,00","R$ 82,91",-21.759859,-43.3467271
+774,Juiz de Fora - MG,Centro,Loja,27,0,1,0,"R$ 2.000,00","R$ 0,00","R$ 47,82",-21.759859,-43.3467271
+775,Juiz de Fora - MG,Centro,Loja,30,0,0,0,"R$ 200,00","R$ 1.100,00","R$ 35,00",-21.759859,-43.3467271
+776,Juiz de Fora - MG,Centro,Kitnet,63,0,1,1,"R$ 700,00","R$ 435,00","R$ 195,00",-21.759859,-43.3467271
+777,Juiz de Fora - MG,Cascatinha,Apartamento,69,1,1,1,"R$ 1.300,00","R$ 240,00","R$ 150,00",-21.783859,-43.3630935
+778,Juiz de Fora - MG,Morro da Glória,Apartamento,45,2,1,1,"R$ 1.000,00","R$ 202,16","R$ 0,00",-21.7491916,-43.354837
+779,Juiz de Fora - MG,Centro,Sala,45,2,1,1,"R$ 1.000,00","R$ 202,16","R$ 0,00",-21.759859,-43.3467271
+780,Juiz de Fora - MG,Centro,Apartamento,45,2,1,1,"R$ 1.000,00","R$ 202,16","R$ 0,00",-21.759859,-43.3467271
+781,Juiz de Fora - MG,Benfica,Loja,144,2,1,1,"R$ 1.500,00","R$ 170,00","R$ 158,60",-21.6902673,-43.4361424
+782,Juiz de Fora - MG,Centro,Loja,85,0,0,0,"R$ 1.500,00","R$ 0,00","R$ 149,20",-21.759859,-43.3467271
+783,Juiz de Fora - MG,Centro,Loja,"1,000",0,2,0,"R$ 20.000,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+784,Juiz de Fora - MG,Centro,Sala,90,2,2,1,"R$ 1.100,00","R$ 500,00","R$ 129,05",-21.759859,-43.3467271
+785,Juiz de Fora - MG,São Mateus,SalÃ£o,0,3,2,0,"R$ 1.300,00","R$ 50,00","R$ 245,00",-21.7735943,-43.3546617
+786,Juiz de Fora - MG,Centro,Loja,52,2,1,1,"R$ 600,00","R$ 212,46","R$ 89,50",-21.759859,-43.3467271
+787,Juiz de Fora - MG,Centro,Loja,40,1,1,0,"R$ 700,00","R$ 280,00","R$ 89,66",-21.759859,-43.3467271
+788,Juiz de Fora - MG,Morro da Glória,Loja,60,2,1,0,"R$ 700,00","R$ 100,00","R$ 78,98",-21.7491916,-43.354837
+789,Juiz de Fora - MG,Teixeiras,Loja,65,0,1,2,"R$ 2.100,00","R$ 510,00","R$ 219,33",-21.7908663,-43.3623365
+790,Juiz de Fora - MG,Teixeiras,Loja,56,0,1,0,"R$ 899,00","R$ 0,00","R$ 1.180,00",-21.7908663,-43.3623365
+791,Juiz de Fora - MG,Santa Terezinha,GalpÃ£o,58,0,1,1,"R$ 1.900,00","R$ 510,00","R$ 183,32",-21.7417094,-43.3605186
+792,Juiz de Fora - MG,Centro,Loja,36,0,1,1,"R$ 1.100,00","R$ 510,00","R$ 148,03",-21.759859,-43.3467271
+793,Juiz de Fora - MG,Centro,Loja,44,0,1,1,"R$ 1.600,00","R$ 510,00","R$ 161,63",-21.759859,-43.3467271
+794,Juiz de Fora - MG,São Mateus,SalÃ£o,44,0,1,1,"R$ 1.300,00","R$ 510,00","R$ 154,33",-21.7735943,-43.3546617
+795,Juiz de Fora - MG,Centro,Loja,44,0,1,1,"R$ 1.300,00","R$ 510,00","R$ 159,31",-21.759859,-43.3467271
+796,Juiz de Fora - MG,São Mateus,Loja,90,0,1,0,"R$ 12.990,00","R$ 700,00","R$ 0,00",-21.7735943,-43.3546617
+797,Juiz de Fora - MG,Bandeirantes,Loja,45,0,1,0,"R$ 5.950,00","R$ 350,00","R$ 208,33",-21.7215787,-43.3541886
+798,Juiz de Fora - MG,Vila Ideal,GalpÃ£o,90,0,2,0,"R$ 21.990,00","R$ 700,00","R$ 2.500,00",-21.7795293,-43.3296541
+799,Juiz de Fora - MG,Centro,Sala,300,0,6,7,"R$ 9.300,00","R$ 3.360,00","R$ 1.025,90",-21.759859,-43.3467271
+800,Juiz de Fora - MG,Centro,Apartamento,30,1,1,0,"R$ 650,00","R$ 200,00","R$ 99,02",-21.759859,-43.3467271
+801,Juiz de Fora - MG,Centro,Apartamento,68,2,2,1,"R$ 900,00","R$ 200,00","R$ 128,20",-21.759859,-43.3467271
+802,Juiz de Fora - MG,Centro,Apartamento,90,3,1,0,"R$ 850,00","R$ 250,00","R$ 190,00",-21.759859,-43.3467271
+803,Juiz de Fora - MG,Bandeirantes,Apartamento,220,0,3,0,"R$ 3.500,00","R$ 900,00","R$ 223,00",-21.7215787,-43.3541886
+804,Juiz de Fora - MG,São Pedro,Apartamento,360,0,3,0,"R$ 9.000,00","R$ 0,00","R$ 270,00",-21.7708213,-43.3879244
+805,Juiz de Fora - MG,Bom Pastor,Apartamento,41,1,1,0,"R$ 700,00","R$ 170,00","R$ 107,00",-21.7768003,-43.3433149
+806,Juiz de Fora - MG,São Mateus,Apartamento,120,0,2,0,"R$ 2.900,00","R$ 100,00","R$ 50,00",-21.7735943,-43.3546617
+807,Juiz de Fora - MG,Centro,Apartamento,62,0,1,0,"R$ 6.990,00","R$ 0,00","R$ 2.550,00",-21.759859,-43.3467271
+808,Juiz de Fora - MG,Teixeiras,Loja,55,0,1,0,"R$ 2.300,00","R$ 0,00","R$ 0,00",-21.7908663,-43.3623365
+809,Juiz de Fora - MG,Santa Isabel,Apartamento,"1,200",0,12,1,"R$ 30.000,00","R$ 615,00","R$ 410,00",-21.7136402,-43.4251533
+810,Juiz de Fora - MG,Centro,Loja,450,0,0,0,"R$ 10.990,00","R$ 0,00","R$ 700,00",-21.759859,-43.3467271
+811,Juiz de Fora - MG,São Mateus,Apartamento,40,0,0,0,"R$ 3.500,00","R$ 368,00","R$ 198,00",-21.7735943,-43.3546617
+812,Juiz de Fora - MG,Centro,Apartamento,160,0,1,0,"R$ 15.000,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+813,Juiz de Fora - MG,Centro,Sala,690,0,5,0,"R$ 8.500,00","R$ 0,00","R$ 550,00",-21.759859,-43.3467271
+814,Juiz de Fora - MG,São Mateus,Sala,102,0,1,0,"R$ 3.500,00","R$ 0,00","R$ 0,00",-21.7735943,-43.3546617
+815,Juiz de Fora - MG,São Mateus,Sala,71,0,1,0,"R$ 2.900,00","R$ 0,00","R$ 0,00",-21.7735943,-43.3546617
+816,Juiz de Fora - MG,São Mateus,Sala,"1,600",0,6,30,"R$ 15.000,00","R$ 0,00","R$ 432,00",-21.7735943,-43.3546617
+817,Juiz de Fora - MG,São Mateus,Sala,80,0,0,0,"R$ 8.990,00","R$ 0,00","R$ 2.880,00",-21.7735943,-43.3546617
+818,Juiz de Fora - MG,Centro,Sala,62,0,1,0,"R$ 6.990,00","R$ 0,00","R$ 2.140,00",-21.759859,-43.3467271
+819,Juiz de Fora - MG,Fábrica,GalpÃ£o,70,0,0,0,499.00,"R$ 0,00","R$ 0,00",-21.7443938,-43.3709832
+820,Juiz de Fora - MG,Lourdes,Casa,30,0,1,0,"R$ 2.990,00","R$ 0,00","R$ 2.230,00",-21.7704781,-43.3286484
+821,Juiz de Fora - MG,Marilândia,Apartamento,92,0,1,0,"R$ 4.990,00","R$ 0,00","R$ 2.480,00",-21.7871711,-43.3907351
+822,Juiz de Fora - MG,Centro,Apartamento,86,0,1,0,"R$ 2.250,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+823,Juiz de Fora - MG,Centro,Apartamento,170,0,1,0,"R$ 2.500,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+824,Juiz de Fora - MG,Centro,Laje,35,0,1,0,"R$ 1.000,00","R$ 350,00","R$ 75,00",-21.759859,-43.3467271
+825,Juiz de Fora - MG,Centro,Apartamento,42,1,1,0,"R$ 650,00","R$ 200,00","R$ 120,00",-21.759859,-43.3467271
+826,Juiz de Fora - MG,Centro,Sala,95,3,2,0,"R$ 900,00","R$ 761,00","R$ 2.133,20",-21.759859,-43.3467271
+827,Juiz de Fora - MG,São Mateus,Loja,97,3,3,1,"R$ 1.500,00","R$ 452,81","R$ 125,12",-21.7735943,-43.3546617
+828,Juiz de Fora - MG,Distrito Industrial,GalpÃ£o,68,2,1,1,"R$ 790,00","R$ 241,00","R$ 74,36",-21.6817745,-43.4379323
+829,Juiz de Fora - MG,Centro,Sala,50,2,1,1,"R$ 800,00","R$ 192,00","R$ 110,00",-21.759859,-43.3467271
+830,Juiz de Fora - MG,Ipiranga,Apartamento,310,4,5,4,"R$ 6.500,00","R$ 2.442,00","R$ 621,00",-21.7910828,-43.3505054
+831,Juiz de Fora - MG,Bairu,Apartamento,68,2,1,1,"R$ 800,00","R$ 176,53","R$ 95,60",-21.7375744,-43.3506203
+832,Juiz de Fora - MG,Centro,Loja,55,1,1,0,"R$ 500,00","R$ 195,00","R$ 112,61",-21.759859,-43.3467271
+833,Juiz de Fora - MG,Progresso,Loja,307,0,0,0,"R$ 13.000,00","R$ 0,00","R$ 0,00",-21.730895,-43.3464281
+834,Juiz de Fora - MG,Granbery,Apartamento,70,3,2,1,"R$ 800,00","R$ 100,00","R$ 108,00",-21.7675479,-43.3437945
+835,Juiz de Fora - MG,Centro,Apartamento,160,0,0,0,"R$ 19.000,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+836,Juiz de Fora - MG,Centro,Apartamento,40,2,1,0,"R$ 1.000,00","R$ 152,00","R$ 86,00",-21.759859,-43.3467271
+837,Juiz de Fora - MG,Centro,Apartamento,110,3,2,1,"R$ 1.500,00","R$ 200,00","R$ 234,95",-21.759859,-43.3467271
+838,Juiz de Fora - MG,Teixeiras,Apartamento,180,0,2,0,"R$ 1.600,00","R$ 0,00","R$ 0,00",-21.7908663,-43.3623365
+839,Juiz de Fora - MG,São Pedro,Apartamento,87,0,1,0,"R$ 1.750,00","R$ 80,00","R$ 161,00",-21.7708213,-43.3879244
+840,Juiz de Fora - MG,Centro,Loja,95,0,1,0,"R$ 1.700,00","R$ 80,00","R$ 154,00",-21.759859,-43.3467271
+841,Juiz de Fora - MG,São Mateus,Loja,88,0,1,0,"R$ 1.420,00","R$ 70,00","R$ 143,00",-21.7735943,-43.3546617
+842,Juiz de Fora - MG,Centro,Loja,88,0,2,0,"R$ 1.600,00","R$ 75,00","R$ 153,00",-21.759859,-43.3467271
+843,Juiz de Fora - MG,Manoel Honorio,Loja,250,0,2,0,"R$ 3.000,00","R$ 420,00","R$ 335,00",-21.7435044,-43.3537058
+844,Juiz de Fora - MG,Centro,Sala,378,0,0,0,"R$ 5.900,00","R$ 0,00","R$ 3.292,00",-21.759859,-43.3467271
+845,Juiz de Fora - MG,Centro,Loja,30,1,1,0,"R$ 580,00","R$ 0,00","R$ 18,70",-21.759859,-43.3467271
+846,Juiz de Fora - MG,Centro,Loja,45,2,1,1,"R$ 550,00","R$ 250,00","R$ 75,00",-21.759859,-43.3467271
+847,Juiz de Fora - MG,Lourdes,Casa,47,1,1,0,"R$ 700,00","R$ 227,00","R$ 77,00",-21.7704781,-43.3286484
+848,Juiz de Fora - MG,São Pedro,Loja,50,1,1,1,"R$ 800,00","R$ 325,00","R$ 142,00",-21.7708213,-43.3879244
+849,Juiz de Fora - MG,Centro,Kitnet,100,0,0,0,"R$ 5.000,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+850,Juiz de Fora - MG,Industrial,Apartamento,50,1,1,0,"R$ 500,00","R$ 375,00","R$ 65,00",-21.7321916,-43.3925353
+851,Juiz de Fora - MG,Industrial,Apartamento,70,0,2,0,"R$ 1.000,00","R$ 200,00","R$ 250,00",-21.7321916,-43.3925353
+852,Juiz de Fora - MG,São Pedro,Loja,130,0,1,0,"R$ 6.000,00","R$ 0,00","R$ 250,00",-21.7708213,-43.3879244
+853,Juiz de Fora - MG,Centro,Apartamento,"1,000",0,0,0,"R$ 13.000,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+854,Juiz de Fora - MG,São Mateus,Casa,41,0,1,0,"R$ 700,00","R$ 410,00","R$ 194,66",-21.7735943,-43.3546617
+855,Juiz de Fora - MG,São Mateus,Loja,80,2,2,1,"R$ 750,00","R$ 150,00","R$ 104,00",-21.7735943,-43.3546617
+856,Juiz de Fora - MG,Paineiras,Apartamento,97,2,2,1,"R$ 850,00","R$ 230,00","R$ 134,43",-21.7657334,-43.3551152
+857,Juiz de Fora - MG,Alto dos Passos,Apartamento,"1,240",0,4,1,"R$ 30.000,00","R$ 1.025,00","R$ 450,00",-21.7762548,-43.3474599
+858,Juiz de Fora - MG,São Pedro,Loja,62,0,1,0,"R$ 299,00","R$ 0,00","R$ 2.140,00",-21.7708213,-43.3879244
+859,Juiz de Fora - MG,Manoel Honorio,Sala,19,0,0,0,"R$ 700,00","R$ 0,00","R$ 19,71",-21.7435044,-43.3537058
+860,Juiz de Fora - MG,Centro,Apartamento,107,3,2,1,"R$ 1.400,00","R$ 240,00","R$ 115,00",-21.759859,-43.3467271
+861,Juiz de Fora - MG,Santa Helena,Apartamento,90,2,1,0,"R$ 950,00","R$ 135,00","R$ 55,00",-21.7575053,-43.3561412
+862,Juiz de Fora - MG,Santa Helena,Apartamento,60,2,1,0,"R$ 850,00","R$ 140,00","R$ 55,00",-21.7575053,-43.3561412
+863,Juiz de Fora - MG,Salvaterra,GalpÃ£o,60,2,1,0,"R$ 850,00","R$ 140,00","R$ 55,00",-21.8059997,-43.374194
+864,Juiz de Fora - MG,Poço Rico,GalpÃ£o,0,0,0,1,"R$ 160,00","R$ 71,00","R$ 0,00",-21.763706,-43.3392047
+865,Juiz de Fora - MG,Bandeirantes,Loja,140,0,2,0,"R$ 4.000,00","R$ 0,00","R$ 0,00",-21.7215787,-43.3541886
+866,Juiz de Fora - MG,Paineiras,Apartamento,"1,000",0,0,26,"R$ 29.500,00","R$ 0,00","R$ 0,00",-21.7657334,-43.3551152
+867,Juiz de Fora - MG,Bandeirantes,Loja,80,3,2,0,"R$ 1.300,00","R$ 0,00","R$ 120,93",-21.7215787,-43.3541886
+868,Juiz de Fora - MG,Manoel Honorio,Loja,47,2,1,1,"R$ 650,00","R$ 160,00","R$ 40,00",-21.7435044,-43.3537058
+869,Juiz de Fora - MG,Nova Era,GalpÃ£o,15,0,2,0,"R$ 2.000,00","R$ 0,00","R$ 0,00",-21.7084989,-43.4211379
+870,Juiz de Fora - MG,Democrata,PrÃ©dio,60,0,0,0,"R$ 2.990,00","R$ 0,00","R$ 930,00",-21.7496425,-43.3686212
+871,Juiz de Fora - MG,Paineiras,Apartamento,180,0,2,0,"R$ 9.500,00","R$ 0,00","R$ 52,00",-21.7657334,-43.3551152
+872,Juiz de Fora - MG,Jardim de Ala,Apartamento,250,0,1,0,"R$ 6.990,00","R$ 250,00","R$ 7.800,00",-21.7922414,-43.3473574
+873,Juiz de Fora - MG,São Geraldo,Terreno,170,0,0,0,"R$ 830,00","R$ 1.100,00","R$ 230,00",-21.803847,-43.3399883
+874,Juiz de Fora - MG,Morro da Glória,Apartamento,14,0,2,0,"R$ 3.300,00","R$ 0,00","R$ 0,00",-21.7491916,-43.354837
+875,Juiz de Fora - MG,Alto dos Passos,Apartamento,15,0,0,0,"R$ 2.200,00","R$ 0,00","R$ 0,00",-21.7762548,-43.3474599
+876,Juiz de Fora - MG,Bandeirantes,Loja,32,1,1,0,"R$ 580,00","R$ 0,00","R$ 19,90",-21.7215787,-43.3541886
+877,Juiz de Fora - MG,Paineiras,Apartamento,40,0,2,0,"R$ 3.500,00","R$ 0,00","R$ 449,36",-21.7657334,-43.3551152
+878,Juiz de Fora - MG,Santa Terezinha,Apartamento,30,1,1,0,"R$ 600,00","R$ 250,00","R$ 86,00",-21.7417094,-43.3605186
+879,Juiz de Fora - MG,Grajau,Loja,77,2,2,0,"R$ 850,00","R$ 200,00","R$ 132,55",-21.7477021,-43.3446465
+880,Juiz de Fora - MG,São Mateus,Apartamento,52,2,1,1,"R$ 700,00","R$ 214,00","R$ 83,34",-21.7735943,-43.3546617
+881,Juiz de Fora - MG,Centro,Apartamento,50,0,1,0,"R$ 1.200,00","R$ 0,00","R$ 195,60",-21.759859,-43.3467271
+882,Juiz de Fora - MG,Cruzeiro do Sul,Apartamento,98,2,2,0,"R$ 700,00","R$ 0,00","R$ 0,00",-21.7879975,-43.341993
+883,Juiz de Fora - MG,Centro,Apartamento,144,2,2,0,"R$ 4.400,00","R$ 0,00","R$ 339,42",-21.759859,-43.3467271
+884,Juiz de Fora - MG,Centro,Apartamento,130,0,2,0,"R$ 4.000,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+885,Juiz de Fora - MG,Nossa Senhora Aparecida,Apartamento,60,2,1,1,"R$ 850,00","R$ 221,31","R$ 88,64",-21.7465479,-43.3473422
+886,Juiz de Fora - MG,Bandeirantes,Apartamento,103,3,1,1,"R$ 1.690,00","R$ 470,00","R$ 212,77",-21.7215787,-43.3541886
+887,Juiz de Fora - MG,Linhares,Apartamento,130,0,2,0,"R$ 5.500,00","R$ 0,00","R$ 272,83",-21.7352454,-43.325848
+888,Juiz de Fora - MG,Benfica,Casa,37,0,1,0,"R$ 650,00","R$ 205,00","R$ 72,11",-21.6902673,-43.4361424
+889,Juiz de Fora - MG,Centro,Sala,45,2,1,0,"R$ 650,00","R$ 175,00","R$ 64,88",-21.759859,-43.3467271
+890,Juiz de Fora - MG,São Mateus,Loja,67,2,1,0,"R$ 1.000,00","R$ 130,00","R$ 90,00",-21.7735943,-43.3546617
+891,Juiz de Fora - MG,São Pedro,Loja,67,2,1,1,"R$ 1.000,00","R$ 130,00","R$ 90,00",-21.7708213,-43.3879244
+892,Juiz de Fora - MG,Granbery,Apartamento,"1,586",0,0,0,"R$ 40.000,00","R$ 0,00","R$ 0,00",-21.7675479,-43.3437945
+893,Juiz de Fora - MG,São Pedro,Loja,220,0,1,0,"R$ 5.500,00","R$ 0,00","R$ 175,00",-21.7708213,-43.3879244
+894,Juiz de Fora - MG,Centro,Loja,86,0,1,1,"R$ 2.350,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+895,Juiz de Fora - MG,Bandeirantes,Apartamento,53,2,1,1,"R$ 750,00","R$ 221,00","R$ 49,50",-21.7215787,-43.3541886
+896,Juiz de Fora - MG,Encosta do Sol,Apartamento,86,0,1,1,"R$ 2.000,00","R$ 0,00","R$ 0,00",-21.7392553,-43.4002842
+897,Juiz de Fora - MG,Encosta do Sol,Apartamento,300,0,1,0,"R$ 8.000,00","R$ 0,00","R$ 332,00",-21.7392553,-43.4002842
+898,Juiz de Fora - MG,Encosta do Sol,Apartamento,500,0,3,2,"R$ 6.500,00","R$ 0,00","R$ 330,00",-21.7392553,-43.4002842
+899,Juiz de Fora - MG,Centro,Sala,720,0,2,4,"R$ 10.000,00","R$ 0,00","R$ 80,00",-21.759859,-43.3467271
+900,Juiz de Fora - MG,Benfica,Kitnet,34,1,1,0,"R$ 700,00","R$ 210,00","R$ 65,00",-21.6902673,-43.4361424
+901,Juiz de Fora - MG,Grajau,Loja,46,2,0,0,"R$ 700,00","R$ 167,05","R$ 0,00",-21.7477021,-43.3446465
+902,Juiz de Fora - MG,Nova Benfica,Apartamento,0,0,0,0,"R$ 800,00","R$ 0,00","R$ 870,98",-21.6983433,-43.4412797
+903,Juiz de Fora - MG,Benfica,Apartamento,54,2,1,0,"R$ 1.000,00","R$ 100,00","R$ 116,13",-21.6902673,-43.4361424
+904,Juiz de Fora - MG,Nova Benfica,Apartamento,91,2,1,1,"R$ 900,00","R$ 230,00","R$ 91,00",-21.6983433,-43.4412797
+905,Juiz de Fora - MG,Nova Era,Apartamento,63,0,1,1,"R$ 1.350,00","R$ 0,00","R$ 0,00",-21.7084989,-43.4211379
+906,Juiz de Fora - MG,Nova Era,Apartamento,67,2,1,1,"R$ 900,00","R$ 320,00","R$ 92,75",-21.7084989,-43.4211379
+907,Juiz de Fora - MG,Bom Pastor,Kitnet,30,1,1,0,"R$ 1.200,00","R$ 0,00","R$ 0,00",-21.7768003,-43.3433149
+908,Juiz de Fora - MG,Centro,Apartamento,33,0,1,0,"R$ 600,00","R$ 50,00","R$ 60,00",-21.759859,-43.3467271
+909,Juiz de Fora - MG,São Mateus,Apartamento,45,1,1,0,"R$ 1.100,00","R$ 210,78","R$ 137,00",-21.7735943,-43.3546617
+910,Juiz de Fora - MG,São Mateus,Sala,50,1,1,0,"R$ 890,00","R$ 280,00","R$ 145,00",-21.7735943,-43.3546617
+911,Juiz de Fora - MG,Jardim Natal,GalpÃ£o,51,2,1,1,"R$ 750,00","R$ 235,00","R$ 58,44",-21.7321229,-43.3995203
+912,Juiz de Fora - MG,Centro,Ponto,70,1,1,1,"R$ 1.350,00","R$ 200,00","R$ 140,00",-21.759859,-43.3467271
+913,Juiz de Fora - MG,São Mateus,Ponto,92,3,2,0,"R$ 1.100,00","R$ 336,00","R$ 128,88",-21.7735943,-43.3546617
+914,Juiz de Fora - MG,Centro,Sala,77,2,1,0,"R$ 960,00","R$ 180,00","R$ 80,00",-21.759859,-43.3467271
+915,Juiz de Fora - MG,Parque Jardim da Serra,Apartamento,90,2,1,0,"R$ 1.150,00","R$ 100,00","R$ 65,00",-21.79245575,-43.36744564
+916,Juiz de Fora - MG,Centro,Sala,74,2,1,0,"R$ 450,00","R$ 100,00","R$ 11,79",-21.759859,-43.3467271
+917,Juiz de Fora - MG,Centro,Apartamento,1,1,1,0,"R$ 750,00","R$ 0,00","R$ 63,63",-21.759859,-43.3467271
+918,Juiz de Fora - MG,Centro,Sala,0,0,0,1,"R$ 250,00","R$ 80,38","R$ 0,00",-21.759859,-43.3467271
+919,Juiz de Fora - MG,Francisco Bernardino,Apartamento,0,0,0,1,"R$ 250,00","R$ 80,38","R$ 0,00",-21.73497,-43.3982458
+920,Juiz de Fora - MG,Centro,Sala,49,0,0,0,"R$ 800,00","R$ 350,00","R$ 105,55",-21.759859,-43.3467271
+921,Juiz de Fora - MG,Centro,Apartamento,64,0,1,0,"R$ 3.150,00","R$ 0,00","R$ 189,16",-21.759859,-43.3467271
+922,Juiz de Fora - MG,Centro,Apartamento,146,0,3,1,"R$ 4.500,00","R$ 32,00","R$ 0,00",-21.759859,-43.3467271
+923,Juiz de Fora - MG,Passos,Apartamento,102,2,2,1,"R$ 1.200,00","R$ 210,00","R$ 148,40",-21.7762548,-43.3474599
+924,Juiz de Fora - MG,Jardim do Sol,Apartamento,"1,000",0,0,28,"R$ 25.000,00","R$ 0,00","R$ 0,00",-21.7610522,-43.3273824
+925,Juiz de Fora - MG,Paineiras,Apartamento,900,0,10,12,"R$ 30.000,00","R$ 0,00","R$ 0,00",-21.7657334,-43.3551152
+926,Juiz de Fora - MG,Passos,Apartamento,261,0,1,0,"R$ 9.900,00","R$ 0,00","R$ 662,00",-21.7762548,-43.3474599
+927,Juiz de Fora - MG,Eldorado,Casa,70,2,1,1,"R$ 750,00","R$ 253,00","R$ 72,51",-21.7309452,-43.3642609
+928,Juiz de Fora - MG,São Mateus,Apartamento,61,2,1,0,"R$ 550,00","R$ 100,00","R$ 37,36",-21.7735943,-43.3546617
+929,Juiz de Fora - MG,São Pedro,Loja,58,2,1,0,"R$ 550,00","R$ 100,00","R$ 37,36",-21.7708213,-43.3879244
+930,Juiz de Fora - MG,Centro,Sala,60,2,1,0,"R$ 550,00","R$ 100,00","R$ 37,36",-21.759859,-43.3467271
+931,Juiz de Fora - MG,Centro,Casa,35,0,0,0,"R$ 600,00","R$ 150,00","R$ 70,00",-21.759859,-43.3467271
+932,Juiz de Fora - MG,Ipiranga,Loja,30,1,1,1,"R$ 500,00","R$ 70,00","R$ 0,00",-21.7910828,-43.3505054
+933,Juiz de Fora - MG,Centro,Loja,33,0,1,0,"R$ 600,00","R$ 50,00","R$ 60,00",-21.759859,-43.3467271
+934,Juiz de Fora - MG,Centro,Loja,51,2,1,0,"R$ 450,00","R$ 180,00","R$ 0,00",-21.759859,-43.3467271
+935,Juiz de Fora - MG,Centro,Loja,47,1,1,1,"R$ 600,00","R$ 0,00","R$ 0,00",-21.759859,-43.3467271
+936,Juiz de Fora - MG,Bonfim,Loja,97,2,1,1,"R$ 800,00","R$ 200,00","R$ 30,00",-21.738407,-43.3447405
+937,Juiz de Fora - MG,Marilândia,Loja,91,2,2,1,"R$ 1.100,00","R$ 60,00","R$ 0,00",-21.7871711,-43.3907351
+938,Juiz de Fora - MG,Carlos Chagas,Apartamento,51,1,1,0,"R$ 650,00","R$ 35,00","R$ 0,00",-21.744351,-43.3908675
+939,Juiz de Fora - MG,Santo Antônio,GalpÃ£o,28,1,1,0,"R$ 490,00","R$ 210,00","R$ 60,00",-21.7732458,-43.3127406
+940,Juiz de Fora - MG,Centro,Sala,60,2,1,0,"R$ 1.100,00","R$ 150,00","R$ 0,00",-21.759859,-43.3467271
