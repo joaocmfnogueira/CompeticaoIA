@@ -1,2 +1,2 @@
-# basesCompeticaoIA
-Bases de dados usada na competição de IA semana da computação UFJF
+# CompeticaoIA
+Repositorio que contem as bases usadas na competição junto com notebook da solução
